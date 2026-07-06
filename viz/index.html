@@ -174,20 +174,6 @@
   }
   #node-info .name { font-weight: 600; }
   #node-info .meta { color: var(--muted); margin-top: 0.2rem; }
-  #hover-tooltip {
-    position: fixed;
-    display: none;
-    background: var(--panel-bg);
-    color: var(--fg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 0.35rem 0.6rem;
-    font-size: 0.8rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    pointer-events: none;
-    z-index: 30;
-    max-width: 260px;
-  }
   .stat { color: var(--muted); }
   .stat b { color: var(--fg); }
   a { color: var(--accent); }
@@ -212,7 +198,6 @@
       <button id="zoom-reset" title="Reset view">Reset</button>
     </div>
   </div>
-  <div id="hover-tooltip"></div>
   <div id="sidebar">
     <h2>Legend</h2>
     <div class="legend-row"><span class="dot prize"></span> Prize-winning author</div>
@@ -298,37 +283,6 @@ fetch('network_data.json')
     document.getElementById('zoom-out').addEventListener('click', () => zoomBy(1 / 1.3));
     document.getElementById('zoom-reset').addEventListener('click', () => {
       network.fit({ animation: { duration: 300, easingFunction: 'easeInOutQuad' } });
-    });
-
-    const tooltip = document.getElementById('hover-tooltip');
-    let mouseX = 0, mouseY = 0;
-    container.addEventListener('mousemove', function (e) {
-      mouseX = e.clientX;
-      mouseY = e.clientY;
-      if (tooltip.style.display === 'block') positionTooltip();
-    });
-    function positionTooltip() {
-      const offset = 14;
-      let left = mouseX + offset;
-      let top = mouseY + offset;
-      const rect = tooltip.getBoundingClientRect();
-      if (left + rect.width > window.innerWidth) left = mouseX - rect.width - offset;
-      if (top + rect.height > window.innerHeight) top = mouseY - rect.height - offset;
-      tooltip.style.left = left + 'px';
-      tooltip.style.top = top + 'px';
-    }
-    network.on('hoverNode', function (params) {
-      const n = data.nodes.find(x => x.id === params.node);
-      if (!n) return;
-      tooltip.textContent = n.title;
-      tooltip.style.display = 'block';
-      positionTooltip();
-    });
-    network.on('blurNode', function () {
-      tooltip.style.display = 'none';
-    });
-    network.on('dragStart', function () {
-      tooltip.style.display = 'none';
     });
 
     network.on('click', function (params) {
