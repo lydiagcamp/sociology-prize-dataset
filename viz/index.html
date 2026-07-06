@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Economic Sociology Co-Authorship Network</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+  :root {
+    --bg: #fafaf8;
+    --fg: #1a1a1a;
+    --muted: #6b6b6b;
+    --border: #e0ddd6;
+    --accent: #b23a48;
+    --panel-bg: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181a;
+      --fg: #eceae6;
+      --muted: #9a9891;
+      --border: #33322f;
+      --accent: #e07a86;
+      --panel-bg: #202124;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17181a; --fg: #eceae6; --muted: #9a9891; --border: #33322f; --accent: #e07a86; --panel-bg: #202124;
+  }
+  :root[data-theme="light"] {
+    --bg: #fafaf8; --fg: #1a1a1a; --muted: #6b6b6b; --border: #e0ddd6; --accent: #b23a48; --panel-bg: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0; height: 100%;
+    background: var(--bg); color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 1.25rem 1.5rem 1rem;
+    border-bottom: 1px solid var(--border);
+  }
+  h1 {
+    font-size: 1.25rem;
+    margin: 0 0 0.3rem;
+    font-weight: 600;
+  }
+  header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+    max-width: 70ch;
+  }
+  #layout {
+    display: flex;
+    height: calc(100% - 92px);
+  }
+  #network {
+    flex: 1;
+    height: 100%;
+  }
+  #sidebar {
+    width: 280px;
+    border-left: 1px solid var(--border);
+    padding: 1rem 1.25rem;
+    overflow-y: auto;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+  #sidebar h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin: 1.25rem 0 0.5rem;
+  }
+  #sidebar h2:first-child { margin-top: 0; }
+  .legend-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0.35rem 0;
+  }
+  .dot {
+    width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0;
+  }
+  .dot.prize { background: var(--accent); }
+  .dot.coauthor { background: #7a92a8; }
+  #node-info {
+    background: var(--panel-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.75rem;
+    font-size: 0.82rem;
+    min-height: 3.5rem;
+    line-height: 1.4;
+  }
+  #node-info .name { font-weight: 600; }
+  #node-info .meta { color: var(--muted); margin-top: 0.2rem; }
+  .stat { color: var(--muted); }
+  .stat b { color: var(--fg); }
+  a { color: var(--accent); }
+  @media (max-width: 700px) {
+    #layout { flex-direction: column; }
+    #sidebar { width: 100%; border-left: none; border-top: 1px solid var(--border); }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Economic Sociology Co-Authorship Network</h1>
+  <p>Each red node is a prize-winning economic sociology article's author; blue nodes are their co-authors, drawn from OpenAlex publication records. Drag to explore, scroll to zoom, click a node for details. Part of the <a href="../">Sociology Prize Dataset</a>.</p>
+</header>
+<div id="layout">
+  <div id="network"></div>
+  <div id="sidebar">
+    <h2>Legend</h2>
+    <div class="legend-row"><span class="dot prize"></span> Prize-winning author</div>
+    <div class="legend-row"><span class="dot coauthor"></span> Co-author</div>
+
+    <h2>Selected node</h2>
+    <div id="node-info">Click a node to see details.</div>
+
+    <h2>Network stats</h2>
+    <p class="stat"><b id="stat-nodes">-</b> authors<br>
+    <b id="stat-edges">-</b> co-authorship ties<br>
+    <b id="stat-prize">-</b> prize-winning authors</p>
+  </div>
+</div>
+
+<script>
+fetch('network_data.json')
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('stat-nodes').textContent = data.nodes.length.toLocaleString();
+    document.getElementById('stat-edges').textContent = data.edges.length.toLocaleString();
+    document.getElementById('stat-prize').textContent = data.nodes.filter(n => n.group === 'prize').length;
+
+    const nodes = new vis.DataSet(data.nodes.map(n => ({
+      id: n.id,
+      label: n.label,
+      title: n.title,
+      group: n.group,
+      value: n.value,
+      font: n.group === 'prize' ? { size: 14, color: '#b23a48' } : undefined,
+    })));
+    const edges = new vis.DataSet(data.edges.map((e, i) => ({
+      id: i,
+      from: e.from,
+      to: e.to,
+      value: e.value,
+    })));
+
+    const container = document.getElementById('network');
+    const options = {
+      groups: {
+        prize: { color: { background: '#b23a48', border: '#7a1f2b' }, shape: 'dot' },
+        coauthor: { color: { background: '#7a92a8', border: '#54687a' }, shape: 'dot' },
+      },
+      nodes: {
+        scaling: { min: 4, max: 28 },
+        borderWidth: 1,
+      },
+      edges: {
+        color: { color: '#c7c4bc', opacity: 0.35 },
+        smooth: false,
+        scaling: { min: 0.5, max: 4 },
+      },
+      physics: {
+        solver: 'forceAtlas2Based',
+        forceAtlas2Based: { gravitationalConstant: -60, springLength: 90, avoidOverlap: 0.6 },
+        stabilization: { iterations: 200 },
+      },
+      interaction: { hover: true, tooltipDelay: 150 },
+    };
+
+    const network = new vis.Network(container, { nodes, edges }, options);
+
+    network.on('click', function (params) {
+      const info = document.getElementById('node-info');
+      if (params.nodes.length > 0) {
+        const n = data.nodes.find(x => x.id === params.nodes[0]);
+        info.innerHTML = `<div class="name">${n.title.split(' (')[0]}</div><div class="meta">${n.title.split(', ').slice(-1)[0]}, group: ${n.group === 'prize' ? 'prize-winning author' : 'co-author'}</div>`;
+      } else {
+        info.textContent = 'Click a node to see details.';
+      }
+    });
+  });
+</script>
+</body>
+</html>

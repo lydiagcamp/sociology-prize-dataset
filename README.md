@@ -25,6 +25,10 @@ An original dataset of sociology article prizes and their winning articles, buil
 - `ASA` is a binary flag: `1` if the award is an ASA section award, `0` otherwise (European/SASE prizes).
 - Gender codes (`m`/`f`/`u`) were assigned through manual, unvalidated first-name judgment calls and have not yet been cross-checked against a systematic name-based gender API.
 
+## Visualizations
+
+- **[Economic sociology co-authorship network](https://lydiagcamp.github.io/sociology-prize-dataset/viz/)** — an interactive graph of prize-winning economic sociology authors and their broader co-authorship networks, built from OpenAlex data.
+
 ## Citation
 
 If you use this dataset, please cite it as an in-progress research project by Lydia Camp (2026).
