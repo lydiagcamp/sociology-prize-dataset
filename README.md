@@ -25,15 +25,6 @@ An original dataset of sociology article prizes and their winning articles, buil
 - `ASA` is a binary flag: `1` if the award is an ASA section award, `0` otherwise (European/SASE prizes).
 - Gender codes (`m`/`f`/`u`) were assigned through manual, unvalidated first-name judgment calls and have not yet been cross-checked against a systematic name-based gender API.
 
-## Status and next steps
-
-This dataset underlies an abstract submitted to the 14th Portuguese Congress of Sociology (APS 2027). Planned next steps include:
-
-- Systematic validation of author gender codes against a name-based gender inference API
-- Coding of each article's primary methodological approach
-- Mapping co-authorship networks over time using bibliometric data (e.g. OpenAlex)
-- Full descriptive and inferential analysis of recognition patterns across subfields, gender, and time
-
 ## Citation
 
 If you use this dataset, please cite it as an in-progress research project by Lydia Camp (2026).
