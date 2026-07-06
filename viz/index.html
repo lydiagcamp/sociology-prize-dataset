@@ -145,7 +145,7 @@ fetch('network_data.json')
       title: n.title,
       group: n.group,
       value: n.value,
-      size: n.group === 'prize' ? Math.max(32, Math.min(10 + n.value * 0.55, 58)) : undefined,
+      size: n.group === 'prize' ? Math.max(48, Math.min(16 + n.value * 0.8, 85)) : undefined,
       font: n.group === 'prize' ? { size: 16, color: '#b23a48', strokeWidth: 3, strokeColor: '#ffffff' } : undefined,
       borderWidth: n.group === 'prize' ? 2.5 : 1,
     })));
@@ -174,7 +174,7 @@ fetch('network_data.json')
       physics: {
         solver: 'forceAtlas2Based',
         forceAtlas2Based: { gravitationalConstant: -60, springLength: 90, avoidOverlap: 0.6, damping: 0.6 },
-        stabilization: { iterations: 300 },
+        stabilization: false,
         minVelocity: 0.75,
         maxVelocity: 30,
       },
@@ -183,15 +183,20 @@ fetch('network_data.json')
 
     const network = new vis.Network(container, { nodes, edges }, options);
 
-    network.once('stabilizationIterationsDone', function () {
+    setTimeout(function () {
       network.setOptions({ physics: false });
-    });
+    }, 5000);
 
     network.on('click', function (params) {
       const info = document.getElementById('node-info');
       if (params.nodes.length > 0) {
-        const n = data.nodes.find(x => x.id === params.nodes[0]);
-        info.innerHTML = `<div class="name">${n.title.split(' (')[0]}</div><div class="meta">${n.title.split(', ').slice(-1)[0]}, group: ${n.group === 'prize' ? 'prize-winning author' : 'co-author'}</div>`;
+        const id = params.nodes[0];
+        const n = data.nodes.find(x => x.id === id);
+        const isPrize = n.group === 'prize';
+        const nameHtml = isPrize
+          ? `<a href="${id}" target="_blank" rel="noopener">${n.title.split(' (')[0]}</a>`
+          : n.title.split(' (')[0];
+        info.innerHTML = `<div class="name">${nameHtml}</div><div class="meta">${n.title.split(', ').slice(-1)[0]}, group: ${isPrize ? 'prize-winning author' : 'co-author'}</div>`;
       } else {
         info.textContent = 'Click a node to see details.';
       }
