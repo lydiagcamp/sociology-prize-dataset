@@ -142,7 +142,9 @@ fetch('network_data.json')
       title: n.title,
       group: n.group,
       value: n.value,
-      font: n.group === 'prize' ? { size: 14, color: '#b23a48' } : undefined,
+      size: n.group === 'prize' ? Math.max(22, Math.min(6 + n.value * 0.5, 45)) : undefined,
+      font: n.group === 'prize' ? { size: 16, color: '#b23a48', strokeWidth: 3, strokeColor: '#ffffff' } : undefined,
+      borderWidth: n.group === 'prize' ? 2.5 : 1,
     })));
     const edges = new vis.DataSet(data.edges.map((e, i) => ({
       id: i,
