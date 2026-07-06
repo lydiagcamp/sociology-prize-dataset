@@ -84,6 +84,34 @@
     gap: 0.4rem;
     z-index: 10;
   }
+  #loading {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+    background: var(--panel-bg);
+    z-index: 20;
+    transition: opacity 0.4s ease;
+  }
+  #loading.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+  #loading .spinner {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
   #zoom-controls button {
     width: 2.2rem;
     height: 2.2rem;
@@ -160,6 +188,7 @@
 </header>
 <div id="layout">
   <div id="network">
+    <div id="loading"><span class="spinner"></span> Loading network&hellip;</div>
     <div id="zoom-controls">
       <button id="zoom-in" title="Zoom in">+</button>
       <button id="zoom-out" title="Zoom out">&minus;</button>
@@ -238,6 +267,7 @@ fetch('network_data.json')
 
     network.once('stabilizationIterationsDone', function () {
       network.setOptions({ physics: false });
+      document.getElementById('loading').classList.add('hidden');
     });
 
     function zoomBy(factor) {
