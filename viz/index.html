@@ -145,7 +145,7 @@ fetch('network_data.json')
       title: n.title,
       group: n.group,
       value: n.value,
-      size: n.group === 'prize' ? Math.max(22, Math.min(6 + n.value * 0.5, 45)) : undefined,
+      size: n.group === 'prize' ? Math.max(32, Math.min(10 + n.value * 0.55, 58)) : undefined,
       font: n.group === 'prize' ? { size: 16, color: '#b23a48', strokeWidth: 3, strokeColor: '#ffffff' } : undefined,
       borderWidth: n.group === 'prize' ? 2.5 : 1,
     })));
@@ -173,13 +173,19 @@ fetch('network_data.json')
       },
       physics: {
         solver: 'forceAtlas2Based',
-        forceAtlas2Based: { gravitationalConstant: -60, springLength: 90, avoidOverlap: 0.6 },
-        stabilization: { iterations: 200 },
+        forceAtlas2Based: { gravitationalConstant: -60, springLength: 90, avoidOverlap: 0.6, damping: 0.6 },
+        stabilization: { iterations: 300 },
+        minVelocity: 0.75,
+        maxVelocity: 30,
       },
       interaction: { hover: true, tooltipDelay: 150 },
     };
 
     const network = new vis.Network(container, { nodes, edges }, options);
+
+    network.once('stabilizationIterationsDone', function () {
+      network.setOptions({ physics: false });
+    });
 
     network.on('click', function (params) {
       const info = document.getElementById('node-info');
