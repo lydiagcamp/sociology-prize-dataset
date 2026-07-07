@@ -33,4 +33,4 @@ An original dataset of sociology article prizes and their winning articles, buil
 
 ## Citation
 
-If you use this dataset, please cite it as an in-progress research project by Lydia Camp (2026).
+If you use this dataset, please cite it as an in-progress research project by [Lydia Camp](https://lydiagcamp.github.io) (2026).
