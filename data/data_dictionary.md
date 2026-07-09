@@ -15,6 +15,7 @@
 | `Journal` | Journal of publication |
 | `DOI` | Digital Object Identifier, where available |
 | `Prize_Type` | Award category/type as named on the award's own page (e.g. "Winner", "Best Article Award") |
+| `Prize_Rank` | `Prize_Type` collapsed into three categories: `Winner`, `Honorable Mention`, `Runner-up` |
 | `Author_Count` | Number of authors on the article |
 | `Primary_Method` | Primary methodological approach (not yet coded; currently blank for all rows) |
 | `Source_Award_Page` | URL or citation for the source used to identify the winner |
