@@ -15,9 +15,10 @@ An original dataset of sociology article prizes and their winning articles, buil
 
 | File | Description |
 |---|---|
-| `data/articles.csv` | One row per prize-winning article: title, authors, gender codes, year, journal, DOI, and award linkage |
-| `data/awards.csv` | One row per award/prize: name, sponsoring body, subfield, level, and history |
-| `data/data_dictionary.md` | Column-by-column description of both tables |
+| [`data/articles.csv`](data/articles.csv) | One row per prize-winning article: title, authors, gender codes, year, journal, DOI, and award linkage |
+| [`data/awards.csv`](data/awards.csv) | One row per award/prize: name, sponsoring body, subfield, level, and history |
+| [`data/data_dictionary.md`](data/data_dictionary.md) | Column-by-column description of both tables |
+| [`docs/methodology.md`](docs/methodology.md) | How author gender was coded (genderize.io + manual review) and the limitations of that process |
 
 ## Schema notes
 
@@ -25,7 +26,7 @@ An original dataset of sociology article prizes and their winning articles, buil
 - `articles.csv` also carries `Award_Name` and `Subfield` directly, so the article-level table can be used on its own without a join for most purposes.
 - Author names and genders are split into positional columns `Author_1`...`Author_9` / `Author_1_Gender`...`Author_9_Gender` rather than combined semicolon-delimited strings.
 - `ASA` is a binary flag: `1` if the award is an ASA section award, `0` otherwise (European/SASE prizes).
-- Gender codes (`male`/`female`/`nonbinary`/`unknown`) were assigned via the `genderize.io` API, with all low-confidence predictions (probability < 0.90 or fewer than 20 supporting records) manually verified against personal websites, Google Scholar, and third-party writing using self-identified pronouns or third-person description. See `data/data_dictionary.md` for the full methodology and its limitations.
+- Gender codes (`male`/`female`/`nonbinary`/`unknown`) were assigned via the `genderize.io` API, with all low-confidence predictions (probability < 0.90 or fewer than 20 supporting records) manually verified against personal websites, Google Scholar, and third-party writing using self-identified pronouns or third-person description. See [`docs/methodology.md`](docs/methodology.md) for the full methodology and its limitations.
 
 ## Visualizations
 
