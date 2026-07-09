@@ -306,7 +306,6 @@ fetch('network_data.json')
       const isPrize = n.group === 'prize';
       const nameHtml = `<a href="${id}" target="_blank" rel="noopener">${n.title.split(' (')[0]}</a>`;
       info.innerHTML = `<div class="name">${nameHtml}</div><div class="meta">${n.title.split(', ').slice(-1)[0]}, group: ${isPrize ? 'prize-winning author' : 'co-author'}</div>`;
-      window.open(id, '_blank', 'noopener');
     });
   });
 </script>
