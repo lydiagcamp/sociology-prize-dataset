@@ -64,17 +64,26 @@
     padding: 1.25rem;
     gap: 1.25rem;
   }
-  #network {
+  #network-frame {
     flex: 0 0 auto;
     width: min(calc(100vh - 92px - 2.5rem), calc(100% - 280px - 1.25rem - 2.5rem));
     aspect-ratio: 1 / 1;
     max-width: 900px;
+    position: relative;
+  }
+  #network-wrap {
+    width: 100%;
+    height: 100%;
     position: relative;
     border-radius: 50%;
     background: var(--panel-bg);
     border: 1px solid var(--border);
     overflow: hidden;
     box-shadow: inset 0 0 80px rgba(0,0,0,0.06);
+  }
+  #network {
+    width: 100%;
+    height: 100%;
   }
   #network canvas {
     border-radius: 50%;
@@ -132,7 +141,10 @@
     background: var(--border);
   }
   #zoom-controls button#zoom-reset {
+    width: auto;
+    padding: 0 0.6rem;
     font-size: 0.7rem;
+    white-space: nowrap;
   }
   #sidebar {
     width: 280px;
@@ -180,7 +192,7 @@
   @media (max-width: 700px) {
     #layout { flex-direction: column; padding: 0.75rem; gap: 0.75rem; }
     #sidebar { width: 100%; }
-    #network { width: min(90vw, 90vh); max-width: none; }
+    #network-frame { width: min(90vw, 90vh); max-width: none; }
   }
 </style>
 </head>
@@ -190,8 +202,11 @@
   <p>Red nodes are prize-winning authors, click one to open their OpenAlex profile.<span class="byline">Part of the <a href="../">Sociology Prize Dataset</a> by <a href="https://lydiagcamp.github.io">Lydia Camp</a>.</span></p>
 </header>
 <div id="layout">
-  <div id="network">
-    <div id="loading"><span class="spinner"></span> Loading network&hellip;</div>
+  <div id="network-frame">
+    <div id="network-wrap">
+      <div id="network"></div>
+      <div id="loading"><span class="spinner"></span> Loading network&hellip;</div>
+    </div>
     <div id="zoom-controls">
       <button id="zoom-in" title="Zoom in">+</button>
       <button id="zoom-out" title="Zoom out">&minus;</button>
@@ -230,6 +245,9 @@ fetch('network_data.json')
       title: n.title,
       group: n.group,
       value: n.value,
+      x: n.x,
+      y: n.y,
+      fixed: { x: true, y: true },
       size: n.group === 'prize' ? Math.max(65, Math.min(24 + n.value * 1.0, 110)) : undefined,
       font: n.group === 'prize' ? { size: 16, color: '#b23a48', strokeWidth: 3, strokeColor: '#ffffff' } : undefined,
       borderWidth: n.group === 'prize' ? 2.5 : 1,
@@ -256,24 +274,16 @@ fetch('network_data.json')
         smooth: false,
         scaling: { min: 0.5, max: 4 },
       },
-      physics: {
-        solver: 'forceAtlas2Based',
-        forceAtlas2Based: { gravitationalConstant: -50, springLength: 90, avoidOverlap: 0.6, damping: 0.9 },
-        stabilization: { iterations: 400 },
-        minVelocity: 1.5,
-        maxVelocity: 15,
-      },
+      physics: false,
       interaction: { hover: true, tooltipDelay: 150 },
     };
 
     const network = new vis.Network(container, { nodes, edges }, options);
 
-    network.once('stabilizationIterationsDone', function () {
-      network.setOptions({ physics: false });
-      setTimeout(() => {
-        document.getElementById('loading').classList.add('hidden');
-      }, 600);
+    network.once('afterDrawing', function () {
+      document.getElementById('loading').classList.add('hidden');
     });
+    network.fit();
 
     function zoomBy(factor) {
       const scale = network.getScale() * factor;
@@ -296,11 +306,7 @@ fetch('network_data.json')
       const isPrize = n.group === 'prize';
       const nameHtml = `<a href="${id}" target="_blank" rel="noopener">${n.title.split(' (')[0]}</a>`;
       info.innerHTML = `<div class="name">${nameHtml}</div><div class="meta">${n.title.split(', ').slice(-1)[0]}, group: ${isPrize ? 'prize-winning author' : 'co-author'}</div>`;
-      const link = document.createElement('a');
-      link.href = id;
-      link.target = '_blank';
-      link.rel = 'noopener';
-      link.click();
+      window.open(id, '_blank', 'noopener');
     });
   });
 </script>
