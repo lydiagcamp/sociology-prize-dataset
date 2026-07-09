@@ -183,9 +183,18 @@
     font-size: 0.82rem;
     min-height: 3.5rem;
     line-height: 1.4;
+    transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
   }
   #node-info .name { font-weight: 600; }
   #node-info .meta { color: var(--muted); margin-top: 0.2rem; }
+  #node-info.selected {
+    background: var(--fg);
+    color: var(--bg);
+    border-color: var(--fg);
+  }
+  #node-info.selected .name { color: var(--bg); }
+  #node-info.selected .meta { color: var(--bg); opacity: 0.7; }
+  #node-info.selected a { color: var(--accent); }
   .stat { color: var(--muted); }
   .stat b { color: var(--fg); }
   a { color: var(--accent); }
@@ -270,9 +279,9 @@ fetch('network_data.json')
         borderWidth: 1,
       },
       edges: {
-        color: { color: '#9a9588', opacity: 0.55 },
+        color: { color: '#7a7568', opacity: 0.75 },
         smooth: false,
-        scaling: { min: 0.5, max: 4 },
+        scaling: { min: 1.2, max: 5 },
       },
       physics: false,
       interaction: { hover: true, tooltipDelay: 150 },
@@ -293,14 +302,20 @@ fetch('network_data.json')
     document.getElementById('zoom-out').addEventListener('click', () => zoomBy(1 / 1.3));
     document.getElementById('zoom-reset').addEventListener('click', () => {
       network.fit({ animation: { duration: 300, easingFunction: 'easeInOutQuad' } });
+      network.unselectAll();
+      const info = document.getElementById('node-info');
+      info.classList.remove('selected');
+      info.textContent = 'Click a node to see details.';
     });
 
     network.on('click', function (params) {
       const info = document.getElementById('node-info');
       if (params.nodes.length === 0) {
+        info.classList.remove('selected');
         info.textContent = 'Click a node to see details.';
         return;
       }
+      info.classList.add('selected');
       const id = params.nodes[0];
       const n = data.nodes.find(x => x.id === id);
       const isPrize = n.group === 'prize';
