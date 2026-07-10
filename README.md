@@ -2,7 +2,7 @@
 
 An original dataset of sociology article prizes and their winning articles, built to study what the discipline of sociology recognizes as innovative work.
 
-[![View the co-authorship network](https://img.shields.io/badge/View%20the%20co--authorship%20network-%E2%86%92-7b1e2b?style=for-the-badge)](https://lydiagcamp.github.io/sociology-prize-dataset/viz/)
+[![View the economic sociology co-authorship network](https://img.shields.io/badge/View%20the%20co--authorship%20network-%E2%86%92-7b1e2b?style=for-the-badge)](https://lydiagcamp.github.io/sociology-prize-dataset/viz/)
 
 ## Contents
 
