@@ -2,8 +2,6 @@
 
 An original dataset of sociology article prizes and their winning articles, built to study what the discipline of sociology recognizes as innovative work.
 
-[![View the economic sociology co-authorship network](https://img.shields.io/badge/View%20the%20co--authorship%20network-%E2%86%92-7b1e2b?style=for-the-badge)](https://lydiagcamp.github.io/sociology-prize-dataset/viz/)
-
 ## Contents
 
 - **1,262 prize-winning articles**, spanning 1980-2026
@@ -20,10 +18,6 @@ An original dataset of sociology article prizes and their winning articles, buil
 | [`data/awards.csv`](data/awards.csv) | One row per award/prize: name, sponsoring body, subfield, level, and history |
 | [`data/data_dictionary.md`](data/data_dictionary.md) | Column-by-column description of both tables |
 | [`docs/methodology.md`](docs/methodology.md) | Methodology and limitations |
-
-## Visualizations
-
-- **[Economic sociology co-authorship network](https://lydiagcamp.github.io/sociology-prize-dataset/viz/)** — an interactive graph of prize-winning economic sociology authors and their broader co-authorship networks, built from OpenAlex data. This currently covers only the ASA Economic Sociology Section as a worked example, not the full dataset.
 
 ## Citation
 
