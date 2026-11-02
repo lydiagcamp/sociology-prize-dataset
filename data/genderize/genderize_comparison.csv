@@ -1,0 +1,1455 @@
+Author,First_Name,Author_Slots,Main_Code,Rerun_Gender,Rerun_Probability,Rerun_Count,Rerun_Needs_Review,Original_Gender,Original_Probability,Original_Count,Original_Needs_Review,Original_Manual_Code,Corrected_In_Review,Main_Matches_Rerun
+A.K.M. Skarpelis,AKM,4,female,male,0.86,1432,True,male,0.86,1432,True,female,False,False
+Aaron Horvath,Aaron,2,male,male,1.0,380256,False,male,1.0,380256,False,,False,True
+Aaron Panofsky,Aaron,1,male,male,1.0,380256,False,male,1.0,380256,False,,False,True
+Abdolmohammad Kazemipur,Abdolmohammad,1,male,male,0.78,7,True,male,0.78,7,True,male,False,True
+Abigail Weitzman,Abigail,1,female,female,0.99,136080,False,female,0.99,136080,False,,False,True
+Ada Cheng,Ada,1,female,female,0.93,104654,False,female,0.93,104654,False,,False,True
+Adam Goldstein,Adam,1,male,male,0.98,837770,False,male,0.98,837770,False,,False,True
+Adam Isaiah Green,Adam,1,male,male,0.98,837770,False,male,0.98,837770,False,,False,True
+Adam Porton,Adam,1,male,male,0.98,837770,False,male,0.98,837770,False,,False,True
+Adam Reich,Adam,1,male,male,0.98,837770,False,male,0.98,837770,False,,False,True
+Adam Storer,Adam,3,male,male,0.98,837770,False,male,0.98,837770,False,,False,True
+Adia Harvey Wingfield,Adia,1,female,female,0.94,2099,False,female,0.94,2099,False,,False,True
+Adilia E.E. James,Adilia,1,female,female,0.99,2241,False,female,0.99,2241,False,,False,True
+Adriana Aldana,Adriana,1,female,female,1.0,569325,False,female,1.0,569325,False,,False,True
+Agnese Vitali,Agnese,1,female,female,0.99,22540,False,female,0.99,22540,False,,False,True
+Alan Sadovnik,Alan,1,male,male,1.0,514255,False,male,1.0,514255,False,,False,True
+Alan Wolfe,Alan,1,male,male,1.0,514255,False,male,1.0,514255,False,,False,True
+Alanna Gillis,Alanna,1,female,female,1.0,13310,False,female,1.0,13310,False,,False,True
+Alejandra Abufhele,Alejandra,1,female,female,0.99,365229,False,female,0.99,365229,False,,False,True
+Alex Baratta,Alex,1,male,male,0.95,1668776,False,male,0.95,1668776,False,,False,True
+Alex Miltsov,Alex,1,male,male,0.95,1668776,False,male,0.95,1668776,False,,False,True
+Alex Simpson,Alex,1,male,male,0.95,1668776,False,male,0.95,1668776,False,,False,True
+Alexander E. Kentikelenis,Alexander,3,male,male,1.0,645315,False,male,1.0,645315,False,,False,True
+Alexander Horn,Alexander,1,male,male,1.0,645315,False,male,1.0,645315,False,,False,True
+Alexandra Brewer,Alexandra,2,female,female,0.99,555850,False,female,0.99,555850,False,,False,True
+Alexandra C. Feldberg,Alexandra,1,female,female,0.99,555850,False,female,0.99,555850,False,,False,True
+Alexandra Kalev,Alexandra,1,female,female,0.99,555850,False,female,0.99,555850,False,,False,True
+Alexandra Killewald,Alexandra,1,female,female,0.99,555850,False,female,0.99,555850,False,,False,True
+Alexandrina Vanke,Alexandrina,1,female,female,0.99,4492,False,female,0.99,4492,False,,False,True
+Alfredo Huante,Alfredo,1,male,male,1.0,308811,False,male,1.0,308811,False,,False,True
+Ali Meghji,Ali,1,male,male,0.95,1564127,False,male,0.95,1564127,False,,False,True
+Alice Goffman,Alice,1,female,female,0.99,399418,False,female,0.99,399418,False,,False,True
+Alice Mah,Alice,1,female,female,0.99,399418,False,female,0.99,399418,False,,False,True
+Alina Arseniev-Koehler,Alina,1,female,female,0.99,184585,False,female,0.99,184585,False,,False,True
+Alison Bianchi,Alison,1,female,female,0.98,208862,False,female,0.98,208862,False,,False,True
+Alison C.K. Fogarty,Alison,1,female,female,0.98,208862,False,female,0.98,208862,False,,False,True
+Aliya Hamid Rao,Aliya,2,female,female,0.97,22370,False,female,0.97,22370,False,,False,True
+Aliya Saperstein,Aliya,1,female,female,0.97,22370,False,female,0.97,22370,False,,False,True
+Aliza Luft,Aliza,4,female,female,0.98,8991,False,female,0.98,8991,False,,False,True
+Alka Menon,Alka,1,female,female,0.96,13577,False,female,0.96,13577,False,,False,True
+Allan Cochrane,Allan,1,male,male,1.0,175198,False,,,,,,False,True
+Allison Laing,Allison,1,female,female,0.99,157844,False,female,0.99,157844,False,,False,True
+Allison Pugh,Allison,1,female,female,0.99,157844,False,female,0.99,157844,False,,False,True
+Alya Guseva,Alya,1,female,female,0.96,16101,False,female,0.96,16101,False,,False,True
+Amanda Barrett Cox,Amanda,1,female,female,1.0,734699,False,female,1.0,734699,False,,False,True
+Amanda R. Cheong,Amanda,6,female,female,1.0,734699,False,female,1.0,734699,False,,False,True
+Amanda Sikirica,Amanda,1,female,female,1.0,734699,False,female,1.0,734699,False,,False,True
+Amandine Ody-Brasier,Amandine,1,female,female,0.99,80181,False,female,0.99,80181,False,,False,True
+Amaney Jamal,Amaney,1,female,female,0.94,208,False,female,0.94,208,False,,False,True
+Amelie Aidenberger,Amelie,1,female,female,0.99,50797,False,female,0.99,50797,False,,False,True
+Amin Ghaziani,Amin,2,male,male,0.97,193650,False,male,0.97,193650,False,,False,True
+Amy Binder,Amy,1,female,female,0.99,578234,False,female,0.99,578234,False,,False,True
+Amy Burdette,Amy,1,female,female,0.99,578234,False,female,0.99,578234,False,,False,True
+Amy Hsin,Amy,1,female,female,0.99,578234,False,female,0.99,578234,False,,False,True
+Amy Johnson,Amy,1,female,female,0.99,578234,False,female,0.99,578234,False,,False,True
+Amy Wilkins,Amy,1,female,female,0.99,578234,False,female,0.99,578234,False,,False,True
+Ana Villarreal,Ana,1,female,female,0.91,2363375,False,female,0.91,2363375,False,,False,True
+Anders Hed,Anders,1,male,male,1.0,98375,False,male,1.0,98375,False,,False,True
+Anders Hjorth-Trolle,Anders,1,male,male,1.0,98375,False,male,1.0,98375,False,,False,True
+Andrea Cossu,Andrea,1,male,female,0.69,1681597,True,female,0.69,1681597,True,male,False,False
+Andrea Voyer,Andrea,1,female,female,0.69,1681597,True,female,0.69,1681597,True,female,False,True
+Andrea Willson,Andrea,1,female,female,0.69,1681597,True,female,0.69,1681597,True,,False,True
+Andreas Diekmann,Andreas,1,male,male,1.0,341520,False,male,1.0,341520,False,,False,True
+Andreas Flache,Andreas,1,male,male,1.0,341520,False,male,1.0,341520,False,,False,True
+Andreas Wimmer,Andreas,7,male,male,1.0,341520,False,male,1.0,341520,False,,False,True
+Andrei Boutyline,Andrei,2,male,male,0.99,99718,False,male,0.99,99718,False,,False,True
+Andreja Siliunas,Andreja,1,female,female,0.91,3331,False,female,0.91,3331,False,,False,True
+Andrew Brown,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew C. Cohen,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew C. Patterson,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Halpern-Manners,Andrew,2,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew K. Jorgenson,Andrew,3,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Linke,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Noymer,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Papachristos,Andrew,2,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Penner,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Schrank,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+Andrew Smith,Andrew,1,male,male,1.0,908188,False,male,1.0,908188,False,,False,True
+András Tilcsik,Andrs,8,male,male,0.99,14933,False,male,0.99,14933,False,,False,True
+Andréa Becker,Andra,1,female,female,0.87,12746,True,female,0.87,12746,True,female,False,True
+Andy Scott Chang,Andy,6,male,male,0.96,488371,False,male,0.96,488371,False,,False,True
+Aneta Piekut,Aneta,1,female,female,0.99,93778,False,female,0.99,93778,False,,False,True
+Angela Frederick,Angela,2,female,female,1.0,937874,False,female,1.0,937874,False,,False,True
+Angelina Grigoryeva,Angelina,1,female,female,0.99,104728,False,female,0.99,104728,False,,False,True
+Angharad Butler-Rees,Angharad,1,female,female,1.0,1992,False,female,1.0,1992,False,,False,True
+Angèle Christin,Angle,2,female,female,0.87,6545,True,female,0.87,6545,True,female,False,True
+Anima Adjepong,Anima,1,nonbinary,female,0.78,1948,True,female,0.78,1948,True,nonbinary,False,False
+Anja-Kristin Abendroth,Anja-Kristin,2,female,female,0.67,1,True,female,0.67,1,True,female,False,True
+Anjuli N. Fahlberg,Anjuli,2,female,female,0.99,853,False,female,0.99,853,False,,False,True
+Ann Barry Flood,Ann,1,female,female,0.99,362870,False,female,0.99,362870,False,,False,True
+Ann J. Morning,Ann,1,female,female,0.99,362870,False,female,0.99,362870,False,,False,True
+Ann Mische,Ann,3,female,female,0.99,362870,False,female,0.99,362870,False,,False,True
+Ann Shola Orloff,Ann,1,female,female,0.99,362870,False,female,0.99,362870,False,,False,True
+Ann-Marie Urban,Ann-Marie,1,female,female,1.0,10083,False,,,,,,False,True
+Anna Lunn,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna Penner,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna S. Mueller,Anna,7,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna W. Jacobs,Anna,2,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna Wieber,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna Wilson,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna Woźny,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anna Zajacova,Anna,1,female,female,0.99,1674217,False,female,0.99,1674217,False,,False,True
+Anne Barrett,Anne,1,female,female,0.99,589444,False,female,0.99,589444,False,,False,True
+Anne Bory,Anne,1,female,female,0.99,589444,False,female,0.99,589444,False,,False,True
+Anne Esacove,Anne,1,female,female,0.99,589444,False,female,0.99,589444,False,,False,True
+Anne Kane,Anne,1,female,female,0.99,589444,False,female,0.99,589444,False,,False,True
+Anne Taylor,Anne,1,female,female,0.99,589444,False,female,0.99,589444,False,,False,True
+Anni Erlandsson,Anni,1,female,female,0.98,22970,False,female,0.98,22970,False,,False,True
+Annie Hikido,Annie,1,female,female,0.99,251567,False,female,0.99,251567,False,,False,True
+Anthony Christian Ocampo,Anthony,2,male,male,1.0,804478,False,male,1.0,804478,False,,False,True
+Anthony Johnson,Anthony,1,male,male,1.0,804478,False,male,1.0,804478,False,,False,True
+Anthony Kevins,Anthony,1,male,male,1.0,804478,False,male,1.0,804478,False,,False,True
+Ari Adut,Ari,1,male,male,0.65,35360,True,male,0.65,35360,True,male,False,True
+Ariana Valle,Ariana,1,female,female,0.99,62448,False,female,0.99,62448,False,,False,True
+Ariela Schachter,Ariela,3,female,female,0.99,5344,False,female,0.99,5344,False,,False,True
+Arjan Keizer,Arjan,1,male,male,0.99,26425,False,male,0.99,26425,False,,False,True
+Arjun Dayal,Arjun,1,male,male,0.98,69562,False,male,0.98,69562,False,,False,True
+Armando Lara-Millán,Armando,1,male,male,0.99,261092,False,male,0.99,261092,False,,False,True
+Arnout van de Rijt,Arnout,4,male,male,0.99,676,False,male,0.99,676,False,,False,True
+Arthur Sakamoto,Arthur,1,male,male,1.0,209113,False,male,1.0,209113,False,,False,True
+Arthur Stinchcombe,Arthur,1,male,male,1.0,209113,False,male,1.0,209113,False,,False,True
+Arun Frey,Arun,1,male,male,0.99,165365,False,male,0.99,165365,False,,False,True
+Arvind Karunakaran,Arvind,3,male,male,0.99,63447,False,male,0.99,63447,False,,False,True
+Asad L. Asad,Asad,2,male,male,0.98,61718,False,male,0.98,61718,False,,False,True
+Ashley Currier,Ashley,1,female,female,0.95,471596,False,female,0.95,471596,False,,False,True
+Ashley Gromis,Ashley,1,female,female,0.95,471596,False,female,0.95,471596,False,,False,True
+Ashley Harrell,Ashley,2,female,female,0.95,471596,False,female,0.95,471596,False,,False,True
+Ashley Mears,Ashley,2,female,female,0.95,471596,False,female,0.95,471596,False,,False,True
+Atef Said,Atef,1,male,male,0.98,44615,False,male,0.98,44615,False,,False,True
+Austin C. Kozlowski,Austin,1,male,male,0.99,138727,False,male,0.99,138727,False,,False,True
+Ayo Mansaray,Ayo,1,male,male,0.78,13302,True,male,0.78,13302,True,male,False,True
+Balazs Vedres,Balazs,1,male,male,0.97,5558,False,male,0.97,5558,False,,False,True
+Barbara Kiviat,Barbara,5,female,female,1.0,780533,False,female,1.0,780533,False,,False,True
+Barbora Hubatková,Barbora,1,female,female,1.0,31078,False,female,1.0,31078,False,,False,True
+Baris Buyukokutan,Baris,1,male,male,0.99,46160,False,male,0.99,46160,False,,False,True
+Barry D. Adam,Barry,1,male,male,0.99,180806,False,male,0.99,180806,False,,False,True
+Barry Eidlin,Barry,3,male,male,0.99,180806,False,male,0.99,180806,False,,False,True
+Barry Wellman,Barry,1,male,male,0.99,180806,False,male,0.99,180806,False,,False,True
+Bart Bonikowski,Bart,1,male,male,1.0,99686,False,male,1.0,99686,False,,False,True
+Baudouin Dupret,Baudouin,1,male,male,0.97,1268,False,male,0.97,1268,False,,False,True
+Bayliss J. Camp,Bayliss,1,male,male,0.81,24,True,male,0.81,24,True,male,False,True
+Becky Pettit,Becky,2,female,female,1.0,157604,False,female,1.0,157604,False,,False,True
+Becky Yang Hsu,Becky,2,female,female,1.0,157604,False,female,1.0,157604,False,,False,True
+Ben Adams,Ben,1,male,male,0.98,561079,False,male,0.98,561079,False,,False,True
+Ben Cornwell,Ben,1,male,male,0.98,561079,False,male,0.98,561079,False,,False,True
+Ben Jann,Ben,1,male,male,0.98,561079,False,male,0.98,561079,False,,False,True
+Benita Combet,Benita,1,female,female,0.99,18772,False,female,0.99,18772,False,,False,True
+Benjamin H. Bradlow,Benjamin,3,male,male,1.0,464369,False,male,1.0,464369,False,,False,True
+Benjamin Shestakofsky,Benjamin,2,male,male,1.0,464369,False,male,1.0,464369,False,,False,True
+Bernard Koch,Bernard,1,male,male,0.99,226125,False,male,0.99,226125,False,,False,True
+Bernhard Reinsberg,Bernhard,1,male,male,1.0,39305,False,male,1.0,39305,False,,False,True
+Bernice Pescosolido,Bernice,1,female,female,0.99,28667,False,female,0.99,28667,False,,False,True
+Bert Useem,Bert,3,male,male,0.99,76509,False,male,0.99,76509,False,,False,True
+Besnik Pula,Besnik,1,male,male,0.98,7337,False,male,0.98,7337,False,,False,True
+Beth Bilson,Beth,1,female,female,1.0,197166,False,,,,,,False,True
+Bethany Letiecq,Bethany,1,female,female,1.0,56541,False,female,1.0,56541,False,,False,True
+Beverly Silver,Beverly,1,female,female,1.0,94422,False,female,1.0,94422,False,,False,True
+Bianca Manago,Bianca,1,female,female,0.99,222389,False,female,0.99,222389,False,,False,True
+Blaine G. Robbins,Blaine,1,male,male,0.95,3647,False,male,0.95,3647,False,,False,True
+Blair Wheaton,Blair,1,male,male,0.66,6872,True,male,0.66,6872,True,male,False,True
+Bo Zhou,Bo,1,male,male,0.77,33097,True,male,0.77,33097,True,male,False,True
+Bonnie Erickson,Bonnie,1,female,female,0.99,124077,False,female,0.99,124077,False,,False,True
+Brad R. Fulton,Brad,2,male,male,1.0,195768,False,male,1.0,195768,False,,False,True
+Bradley Montgomery,Bradley,1,male,male,1.0,90031,False,male,1.0,90031,False,,False,True
+Brandon Gorman,Brandon,1,male,male,1.0,350975,False,male,1.0,350975,False,,False,True
+Brandon M. Stewart,Brandon,1,male,male,1.0,350975,False,male,1.0,350975,False,,False,True
+Brandon Muncan,Brandon,1,male,male,1.0,350975,False,male,1.0,350975,False,,False,True
+Brea L. Perry,Brea,4,female,female,0.98,2381,False,female,0.98,2381,False,,False,True
+Brennan Miller,Brennan,1,male,male,0.95,2969,False,male,0.95,2969,False,,False,True
+Brent Simpson,Brent,2,male,male,1.0,101319,False,male,1.0,101319,False,,False,True
+Brent Van Ham,Brent,1,male,male,1.0,101319,False,male,1.0,101319,False,,False,True
+Brett Clark,Brett,6,male,male,1.0,120729,False,male,1.0,120729,False,,False,True
+Brian C. Kelly,Brian,3,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian Houle,Brian,2,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian J. Grim,Brian,2,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian Min,Brian,2,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian Powell,Brian,5,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian S. Silverman,Brian,1,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian Steensland,Brian,2,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Brian Uzzi,Brian,2,male,male,1.0,860476,False,male,1.0,860476,False,,False,True
+Bridget Conlon,Bridget,1,female,female,1.0,71717,False,female,1.0,71717,False,,False,True
+Brielle Bryan,Brielle,1,female,female,0.99,2898,False,female,0.99,2898,False,,False,True
+Brittney Miles,Brittney,1,female,female,1.0,37618,False,female,1.0,37618,False,,False,True
+Bruce Dohrenwend,Bruce,1,male,male,1.0,217058,False,male,1.0,217058,False,,False,True
+Bruce Western,Bruce,3,male,male,1.0,217058,False,male,1.0,217058,False,,False,True
+Byungkyu Lee,Byungkyu,2,male,male,0.97,36,False,male,0.97,36,False,,False,True
+C. Shawn McGuffey,C,3,male,,0.0,0,True,,,,True,male,False,False
+Caitlin Patler,Caitlin,1,female,female,1.0,76746,False,female,1.0,76746,False,,False,True
+Caleb Scoville,Caleb,3,male,male,1.0,69126,False,male,1.0,69126,False,,False,True
+Calvin Morrill,Calvin,1,male,male,0.99,80129,False,male,0.99,80129,False,,False,True
+Cameron T. Whitley,Cameron,2,male,male,0.94,35962,False,male,0.94,35962,False,,False,True
+Camilla Hvidtfeldt,Camilla,1,female,female,1.0,104541,False,female,1.0,104541,False,,False,True
+Candace West,Candace,1,female,female,1.0,42670,False,female,1.0,42670,False,,False,True
+Canton Winer,Canton,1,male,male,0.91,357,False,male,0.91,357,False,,False,True
+Cara Daggett,Cara,1,female,female,0.98,47270,False,female,0.98,47270,False,,False,True
+Carla A. Pfeffer,Carla,2,female,female,0.99,496605,False,female,0.99,496605,False,,False,True
+Carlo Barone,Carlo,1,male,male,0.99,242558,False,male,0.99,242558,False,,False,True
+Carlos J. Gil-Hernández,Carlos,1,male,male,1.0,2154944,False,male,1.0,2154944,False,,False,True
+Carly R. Knight,Carly,1,female,female,0.99,52426,False,,,,,,False,True
+Carol Ann MacGregor,Carol,1,female,female,0.99,476483,False,female,0.99,476483,False,,False,True
+Carol Smart,Carol,1,female,female,0.99,476483,False,female,0.99,476483,False,,False,True
+Caroline Lee,Caroline,1,female,female,1.0,482629,False,female,1.0,482629,False,,False,True
+Carrie L. Shandra,Carrie,1,female,female,1.0,120200,False,female,1.0,120200,False,,False,True
+Carsten Sauer,Carsten,1,male,male,1.0,48983,False,male,1.0,48983,False,,False,True
+Carter T. Butts,Carter,4,male,male,0.93,7121,False,male,0.93,7121,False,,False,True
+Casandra Salgado,Casandra,1,female,female,0.99,12334,False,female,0.99,12334,False,,False,True
+Casey Stockstill,Casey,1,female,male,0.6,27267,True,male,0.6,27267,True,female,False,False
+Cassi Pittman Claytor,Cassi,1,female,female,0.96,3116,False,female,0.96,3116,False,,False,True
+Cate Watson,Cate,1,female,female,0.99,11776,False,female,0.99,11776,False,,False,True
+Catelijne Coopmans,Catelijne,1,female,female,0.99,78,False,female,0.99,78,False,,False,True
+Catherine E. Harnois,Catherine,1,female,female,1.0,489451,False,female,1.0,489451,False,,False,True
+Catherine E. Ross,Catherine,1,female,female,1.0,489451,False,female,1.0,489451,False,,False,True
+Catherine Pope,Catherine,1,female,female,1.0,489451,False,female,1.0,489451,False,,False,True
+Catherine Sirois,Catherine,1,female,female,1.0,489451,False,female,1.0,489451,False,,False,True
+Cayce Hughes,Cayce,1,male,female,0.67,189,True,female,0.67,189,True,male,False,False
+Cecilia Menjívar,Cecilia,3,female,female,1.0,306089,False,female,1.0,306089,False,,False,True
+Celene Reynolds,Celene,3,female,female,0.99,3994,False,female,0.99,3994,False,,False,True
+Celia Lacayo,Celia,1,female,female,0.99,143725,False,female,0.99,143725,False,,False,True
+Chad Alan Goldberg,Chad,1,male,male,1.0,146211,False,male,1.0,146211,False,,False,True
+Chaeyoon Lim,Chaeyoon,2,male,female,0.76,15,True,female,0.76,15,True,male,True,False
+Chana Teeger,Chana,4,female,female,0.91,5745,False,female,0.91,5745,False,,False,True
+Changhui Song,Changhui,1,male,male,0.77,33,True,male,0.77,33,True,male,False,True
+Changhwan Kim,Changhwan,2,male,male,0.99,87,False,male,0.99,87,False,,False,True
+Chao Yu,Chao,1,female,male,0.83,3880,True,male,0.83,3880,True,female,False,False
+Charles Seguin,Charles,1,male,male,1.0,575070,False,male,1.0,575070,False,,False,True
+Charles Umney,Charles,1,male,male,1.0,575070,False,male,1.0,575070,False,,False,True
+Charles Varner,Charles,1,male,male,1.0,575070,False,male,1.0,575070,False,,False,True
+Charles Ward,Charles,1,male,male,1.0,575070,False,male,1.0,575070,False,,False,True
+Charlie Eaton,Charlie,1,male,male,0.85,87375,True,,,,,,False,True
+Chase Raymond,Chase,1,male,male,0.99,42834,False,male,0.99,42834,False,,False,True
+Chen-Hao Hsu,Chen-Hao,1,male,male,0.75,2,True,male,0.75,2,True,male,False,True
+Cheol-Sung Lee,Cheol-Sung,2,male,,0.0,0,True,,0.0,0,True,male,False,False
+Cheris Shun-ching Chan,Cheris,1,female,female,0.92,321,False,female,0.92,321,False,,False,True
+Chiara Galli,Chiara,3,female,female,1.0,253618,False,female,1.0,253618,False,,False,True
+Chien-Te Wu,Chien-Te,1,male,male,0.83,4,True,male,0.83,4,True,male,False,True
+Chloe E. Bird,Chloe,1,female,female,0.99,158230,False,female,0.99,158230,False,,False,True
+Chris Tilly,Chris,1,male,male,0.91,558616,False,male,0.91,558616,False,,False,True
+Christabel L. Rogalin,Christabel,1,female,female,0.99,5595,False,female,0.99,5595,False,,False,True
+Christian Greiffenhagen,Christian,1,male,male,0.99,926346,False,male,0.99,926346,False,,False,True
+Christian Ritter,Christian,1,male,male,0.99,926346,False,male,0.99,926346,False,,False,True
+Christian Smith,Christian,1,male,male,0.99,926346,False,male,0.99,926346,False,,False,True
+Christin L. Munsch,Christin,1,female,female,0.96,12503,False,female,0.96,12503,False,,False,True
+Christina Ciocca Eller,Christina,1,female,female,1.0,403416,False,female,1.0,403416,False,,False,True
+Christina J. Cross,Christina,1,female,female,1.0,403416,False,female,1.0,403416,False,,False,True
+Christine Hine,Christine,1,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christine Horne,Christine,1,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christine Jang-Trettien,Christine,1,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christine Labuski,Christine,1,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christine R. Schwartz,Christine,3,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christine Williams,Christine,1,female,female,1.0,668058,False,female,1.0,668058,False,,False,True
+Christof Brandtner,Christof,3,male,male,1.0,10370,False,male,1.0,10370,False,,False,True
+Christopher A. Bail,Christopher,4,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christopher Levesque,Christopher,1,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christopher Muller,Christopher,2,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christopher Uggen,Christopher,1,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christopher Upton-Hansen,Christopher,1,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christopher Yenkey,Christopher,1,male,male,1.0,661393,False,male,1.0,661393,False,,False,True
+Christy L. Erving,Christy,1,female,female,0.98,96222,False,female,0.98,96222,False,,False,True
+Christy Thornton,Christy,1,female,female,0.98,96222,False,female,0.98,96222,False,,False,True
+Chuncheng Liu,Chuncheng,1,male,male,0.93,25,False,male,0.93,25,False,,False,True
+Chyi-In Wu,Chyi-In,1,male,,0.0,0,True,,0.0,0,True,male,False,False
+Cihan Tugal,Cihan,1,male,male,0.96,40061,False,male,0.96,40061,False,,False,True
+Clare Lyonette,Clare,1,female,female,0.99,24900,False,female,0.99,24900,False,,False,True
+Claudia Buchmann,Claudia,1,female,female,0.99,957782,False,female,0.99,957782,False,,False,True
+Claudia Geist,Claudia,1,female,female,0.99,957782,False,female,0.99,957782,False,,False,True
+Claudia Masferrer,Claudia,1,female,female,0.99,957782,False,female,0.99,957782,False,,False,True
+Clayton Childress,Clayton,1,male,male,1.0,50490,False,male,1.0,50490,False,,False,True
+Clemens Kroneberg,Clemens,1,male,male,0.99,12064,False,male,0.99,12064,False,,False,True
+Colin J. Beck,Colin,2,male,male,1.0,178285,False,male,1.0,178285,False,,False,True
+Colleen Heflin,Colleen,1,female,female,1.0,105266,False,female,1.0,105266,False,,False,True
+Conrad Hackett,Conrad,2,male,male,1.0,24789,False,male,1.0,24789,False,,False,True
+Corey Payne,Corey,1,male,male,0.96,27411,False,male,0.96,27411,False,,False,True
+Corinne Reczek,Corinne,1,female,female,0.99,139955,False,,,,,,False,True
+Courtney B. Abrams,Courtney,1,female,female,0.9,38993,False,female,0.9,38993,False,,False,True
+Courtney E. Boen,Courtney,2,female,female,0.9,38993,False,female,0.9,38993,False,,False,True
+Courtney S. Thomas Tobin,Courtney,1,female,female,0.9,38993,False,female,0.9,38993,False,,False,True
+Craig M. Rawlings,Craig,1,male,male,1.0,294681,False,male,1.0,294681,False,,False,True
+Cristiane Martins,Cristiane,1,female,female,0.99,14742,False,female,0.99,14742,False,,False,True
+Cristobal Young,Cristobal,2,male,male,0.99,47048,False,male,0.99,47048,False,,False,True
+Cynthia Feliciano,Cynthia,1,female,female,1.0,346703,False,female,1.0,346703,False,,False,True
+D. Adam Nicholson,D,1,male,,0.0,0,True,,,,True,male,False,False
+D. Matthew Godfrey,D,1,male,,0.0,0,True,,,,True,male,False,False
+Damian Grimshaw,Damian,1,male,male,0.99,172455,False,male,0.99,172455,False,,False,True
+Damon Centola,Damon,5,male,male,1.0,33758,False,male,1.0,33758,False,,False,True
+Damon Mayrl,Damon,3,male,male,1.0,33758,False,male,1.0,33758,False,,False,True
+Dan Lainer-Vos,Dan,1,male,male,0.99,552930,False,male,0.99,552930,False,,False,True
+Dan Slater,Dan,1,male,male,0.99,552930,False,male,0.99,552930,False,,False,True
+Dana L. Haynie,Dana,2,female,female,0.94,122260,False,female,0.94,122260,False,,False,True
+Dana M. Moss,Dana,3,female,female,0.94,122260,False,female,0.94,122260,False,,False,True
+Daniel Agbiboa,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Auerbach,Daniel,2,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Bolger,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Chambliss,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Davis,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel E. Martínez,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Hirschman,Daniel,2,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel J. DellaPosta,Daniel,4,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Karell,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Laurison,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel M. O'Connor,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Oesch,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel P. Carpenter,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Schneider,Daniel,6,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Silver,Daniel,2,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Daniel Winchester,Daniel,1,male,male,0.99,2473313,False,male,0.99,2473313,False,,False,True
+Danielle C. Kuhl,Danielle,1,female,female,1.0,375306,False,female,1.0,375306,False,,False,True
+Danielle C. Ompad,Danielle,1,female,female,1.0,375306,False,female,1.0,375306,False,,False,True
+Danielle Kane,Danielle,1,female,female,1.0,375306,False,female,1.0,375306,False,,False,True
+Danielle L. Fettes,Danielle,1,female,female,1.0,375306,False,female,1.0,375306,False,,False,True
+Danya Lagos,Danya,2,nonbinary,female,0.82,6576,True,female,0.82,6576,True,nonbinary,False,False
+Dara Shifrer,Dara,2,female,female,0.67,9527,True,female,0.67,9527,True,female,False,True
+David B. Grusky,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Brady,David,4,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Cohen,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Cunningham,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Frank,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Heise,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David J. Harding,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Jacobs,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David John Frank,David,2,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Jonathan Knight,David,2,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David L. Chambers,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Maimon,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Melamed,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Obstfeld,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Pettinicchio,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Rier,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Rode,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Rubinstein,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David S. Kirk,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David S. Pedulla,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Smilde,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Stark,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Stuckler,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+David Warner,David,1,male,male,1.0,3494330,False,male,1.0,3494330,False,,False,True
+Davide Barrera,Davide,1,male,male,1.0,317009,False,male,1.0,317009,False,,False,True
+Dawn Lyon,Dawn,1,female,female,1.0,206107,False,female,1.0,206107,False,,False,True
+Debra Fitzpatrick,Debra,1,female,female,1.0,156699,False,female,1.0,156699,False,,False,True
+Debra Umberson,Debra,2,female,female,1.0,156699,False,female,1.0,156699,False,,False,True
+Deirdre Bloome,Deirdre,2,female,female,1.0,26594,False,female,1.0,26594,False,,False,True
+Delia Baldassarri,Delia,3,female,female,0.99,76809,False,female,0.99,76809,False,,False,True
+Deni Mazrekaj,Deni,2,male,male,0.64,9385,True,male,0.64,9385,True,male,False,True
+Denis Neumann,Denis,1,male,male,0.94,169570,False,male,0.94,169570,False,,False,True
+Denise L. Johnson,Denise,1,female,female,1.0,408382,False,female,1.0,408382,False,,False,True
+Denise White Perkins,Denise,1,female,female,1.0,408382,False,female,1.0,408382,False,,False,True
+Dennis Condron,Dennis,1,male,male,0.99,442674,False,male,0.99,442674,False,,False,True
+Dennis Feehan,Dennis,1,male,male,0.99,442674,False,male,0.99,442674,False,,False,True
+Devika Narayan,Devika,1,female,female,0.99,8885,False,female,0.99,8885,False,,False,True
+Devon Brackbill,Devon,1,male,male,0.79,13410,True,male,0.79,13410,True,male,False,True
+Diana Fu,Diana,1,female,female,0.99,849770,False,female,0.99,849770,False,,False,True
+Diana Rodriquez-Franco,Diana,1,female,female,0.99,849770,False,female,0.99,849770,False,,False,True
+Diane Felmlee,Diane,1,female,female,1.0,327430,False,female,1.0,327430,False,,False,True
+Diane Richardson,Diane,1,female,female,1.0,327430,False,female,1.0,327430,False,,False,True
+Diego F. Leal,Diego,1,male,male,1.0,773465,False,male,1.0,773465,False,,False,True
+Diego Taboada,Diego,1,male,male,1.0,773465,False,male,1.0,773465,False,,False,True
+Dina G. Okamoto,Dina,2,female,female,0.98,217191,False,female,0.98,217191,False,,False,True
+Dingeman Wiertz,Dingeman,1,male,male,0.98,56,False,male,0.98,56,False,,False,True
+Dohoon Lee,Dohoon,1,male,male,0.98,47,False,male,0.98,47,False,,False,True
+Dominik Zelinsky,Dominik,1,male,male,0.99,106328,False,male,0.99,106328,False,,False,True
+Donald A. Clelland,Donald,1,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donald Black,Donald,1,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donald Carveth,Donald,1,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donald Lloyd,Donald,1,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donald MacKenzie,Donald,1,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donald Tomaskovic-Devey,Donald,3,male,male,1.0,193227,False,male,1.0,193227,False,,False,True
+Donna Lancianese,Donna,1,female,female,1.0,382126,False,female,1.0,382126,False,,False,True
+Doron Shultziner,Doron,1,male,male,0.97,7068,False,male,0.97,7068,False,,False,True
+Douglas B. Downey,Douglas,2,male,male,1.0,226209,False,male,1.0,226209,False,,False,True
+Douglas Hartmann,Douglas,1,male,male,1.0,226209,False,male,1.0,226209,False,,False,True
+Douglas Heckathorn,Douglas,1,male,male,1.0,226209,False,male,1.0,226209,False,,False,True
+Douglas Marshall,Douglas,1,male,male,1.0,226209,False,male,1.0,226209,False,,False,True
+Douglas R. White,Douglas,1,male,male,1.0,226209,False,male,1.0,226209,False,,False,True
+Dragana Stojmenovska,Dragana,1,female,female,0.99,12752,False,female,0.99,12752,False,,False,True
+Duncan Watts,Duncan,1,male,male,1.0,48036,False,male,1.0,48036,False,,False,True
+Dustin Voss,Dustin,1,male,male,1.0,85619,False,,,,,,False,True
+Dylan Riley,Dylan,2,male,male,0.99,188409,False,male,0.99,188409,False,,False,True
+Edward Hendrickson,Edward,1,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edward Holland,Edward,1,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edward J. Lawler,Edward,1,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edward Reynolds,Edward,1,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edward T. Walker,Edward,2,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edward W. Morris,Edward,2,male,male,1.0,326682,False,male,1.0,326682,False,,False,True
+Edwin Amenta,Edwin,1,male,male,1.0,307725,False,male,1.0,307725,False,,False,True
+Elaine M. Hernandez,Elaine,2,female,female,1.0,248573,False,female,1.0,248573,False,,False,True
+Elaine Sio-ieng Hui,Elaine,1,female,female,1.0,248573,False,female,1.0,248573,False,,False,True
+Elisa Facio,Elisa,1,female,female,0.99,340564,False,female,0.99,340564,False,,False,True
+Elisabeth Anderson,Elisabeth,2,female,female,1.0,178625,False,female,1.0,178625,False,,False,True
+Elise Paradis,Elise,1,female,female,0.99,93451,False,female,0.99,93451,False,,False,True
+Eliza Brown,Eliza,1,female,female,0.99,78583,False,female,0.99,78583,False,,False,True
+Elizabeth A. Armstrong,Elizabeth,5,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth B. Silva,Elizabeth,1,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth Chiarello,Elizabeth,5,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth E. Bruch,Elizabeth,3,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth Holzer,Elizabeth,1,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth Korver-Glenn,Elizabeth,3,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth M. Armstrong,Elizabeth,2,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth Quinlan,Elizabeth,1,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elizabeth Wrigley-Field,Elizabeth,2,female,female,1.0,797716,False,female,1.0,797716,False,,False,True
+Elke Holst,Elke,1,female,female,0.99,44616,False,,,,,,False,True
+Ellis Monk,Ellis,6,male,male,0.61,7756,True,male,0.61,7756,True,male,False,True
+Eman Abdelhadi,Eman,1,female,female,0.96,168289,False,female,0.96,168289,False,,False,True
+Emerald T. Nguyen,Emerald,1,female,female,0.82,2247,True,female,0.82,2247,True,female,False,True
+Emilio Castilla,Emilio,1,male,male,0.99,171170,False,male,0.99,171170,False,,False,True
+Emilio Sulis,Emilio,1,male,male,0.99,171170,False,male,0.99,171170,False,,False,True
+Emily Allen Paine,Emily,1,female,female,1.0,483065,False,female,1.0,483065,False,,False,True
+Emily Behar,Emily,1,female,female,1.0,483065,False,female,1.0,483065,False,,False,True
+Emily Erikson,Emily,2,female,female,1.0,483065,False,female,1.0,483065,False,,False,True
+Emily Kazyak,Emily,1,female,female,1.0,483065,False,female,1.0,483065,False,,False,True
+Emmanuel David,Emmanuel,1,male,male,0.99,383848,False,male,0.99,383848,False,,False,True
+Enid Schatz,Enid,2,female,female,0.99,8810,False,female,0.99,8810,False,,False,True
+Enrique Alvear Moreno,Enrique,2,male,male,1.0,302875,False,male,1.0,302875,False,,False,True
+Eran Shor,Eran,2,male,male,0.97,4868,False,male,0.97,4868,False,,False,True
+Eric Blanc,Eric,1,male,male,1.0,987132,False,male,1.0,987132,False,,False,True
+Eric W. Schoon,Eric,1,male,male,1.0,987132,False,male,1.0,987132,False,,False,True
+Erik H. Wang,Erik,1,male,male,0.99,283358,False,male,0.99,283358,False,,False,True
+Erik Rosenqvist,Erik,1,male,male,0.99,283358,False,male,0.99,283358,False,,False,True
+Erika Davis,Erika,1,female,female,1.0,420009,False,female,1.0,420009,False,,False,True
+Erin Metz McDonnell,Erin,4,female,female,0.99,216175,False,female,0.99,216175,False,,False,True
+Erin N. Kidder,Erin,1,female,female,0.99,216175,False,female,0.99,216175,False,,False,True
+Erin R. Hamilton,Erin,2,female,female,0.99,216175,False,female,0.99,216175,False,,False,True
+Erzsébet Bukodi,Erzsbet,1,female,female,1.0,7409,False,female,1.0,7409,False,,False,True
+Esperança Bielsa,Esperana,1,female,female,0.96,424,False,female,0.96,424,False,,False,True
+Eszter Hargittai,Eszter,1,female,female,1.0,17650,False,female,1.0,17650,False,,False,True
+Ethan Michelson,Ethan,1,male,male,0.99,89759,False,male,0.99,89759,False,,False,True
+Ethan Poskanzer,Ethan,1,male,male,0.99,89759,False,male,0.99,89759,False,,False,True
+Eugene A. Rosa,Eugene,4,male,male,0.99,104001,False,male,0.99,104001,False,,False,True
+Eunmi Mun,Eunmi,1,female,female,0.97,356,False,female,0.97,356,False,,False,True
+Eunsil Oh,Eunsil,1,female,female,0.99,121,False,female,0.99,121,False,,False,True
+Evan Roberts,Evan,1,male,male,0.98,111380,False,male,0.98,111380,False,,False,True
+Evan Schofer,Evan,2,male,male,0.98,111380,False,male,0.98,111380,False,,False,True
+Evelyn J. Patterson,Evelyn,2,female,female,1.0,218660,False,female,1.0,218660,False,,False,True
+Ezra W. Zuckerman Sivan,Ezra,2,male,male,0.84,5625,True,male,0.84,5625,True,male,False,True
+Fabian T. Pfeffer,Fabian,1,male,male,0.99,227780,False,male,0.99,227780,False,,False,True
+Fabian Winter,Fabian,1,male,male,0.99,227780,False,male,0.99,227780,False,,False,True
+Fabien Accominotti,Fabien,2,male,male,0.99,100788,False,male,0.99,100788,False,,False,True
+Fabrizio Bernardi,Fabrizio,1,male,male,1.0,157578,False,male,1.0,157578,False,,False,True
+Fauzia Husain,Fauzia,1,female,female,0.99,4965,False,female,0.99,4965,False,,False,True
+Felix Elwert,Felix,2,male,male,0.99,261560,False,male,0.99,261560,False,,False,True
+Felix Lang,Felix,1,male,male,0.99,261560,False,male,0.99,261560,False,,False,True
+Feng Shi,Feng,1,male,male,0.92,17496,False,male,0.92,17496,False,,False,True
+Fenggang Yang,Fenggang,1,male,male,0.92,11,True,male,0.92,11,True,male,False,True
+Fernando Dominguez Rubio,Fernando,1,male,male,1.0,909754,False,male,1.0,909754,False,,False,True
+Filippo Andrei,Filippo,1,male,male,1.0,124843,False,male,1.0,124843,False,,False,True
+Filiz Garip,Filiz,2,female,female,0.98,49777,False,female,0.98,49777,False,,False,True
+Flavia Fossati,Flavia,1,female,female,1.0,97737,False,female,1.0,97737,False,,False,True
+Florencia Torche,Florencia,3,female,female,1.0,56472,False,female,1.0,56472,False,,False,True
+Forrest Stuart,Forrest,1,male,male,0.99,12422,False,male,0.99,12422,False,,False,True
+Francoise Carré,Francoise,1,female,female,0.99,87440,False,female,0.99,87440,False,,False,True
+G. Cristina Mora,G,1,female,,0.0,0,True,,,,True,female,False,False
+Gabriel Abend,Gabriel,1,male,male,0.99,654020,False,male,0.99,654020,False,,False,True
+Gabriel Hetland,Gabriel,1,male,male,0.99,654020,False,male,0.99,654020,False,,False,True
+Garrett Albanesius,Garrett,1,male,male,1.0,46057,False,male,1.0,46057,False,,False,True
+Gary J. Adler Jr.,Gary,2,male,male,1.0,504619,False,male,1.0,504619,False,,False,True
+Gayle Kaufman,Gayle,1,female,female,0.97,7119,False,female,0.97,7119,False,,False,True
+Genevieve Zubrzycki,Genevieve,2,female,female,1.0,53696,False,female,1.0,53696,False,,False,True
+Geoffrey Raymond,Geoffrey,1,male,male,1.0,80059,False,male,1.0,80059,False,,False,True
+Geoffrey T. Wodtke,Geoffrey,1,male,male,1.0,80059,False,male,1.0,80059,False,,False,True
+Georg Kanitsar,Georg,1,male,male,0.99,19515,False,male,0.99,19515,False,,False,True
+Georgie Wemyss,Georgie,1,female,female,0.77,5896,True,female,0.77,5896,True,female,False,True
+Ghassan Moussawi,Ghassan,2,male,male,0.99,19334,False,male,0.99,19334,False,,False,True
+Giles Mohan,Giles,1,male,male,0.99,8314,False,,,,,,False,True
+Gill Valentine,Gill,1,female,female,0.75,13029,True,female,0.75,13029,True,female,False,True
+Gillian Slee,Gillian,1,female,female,0.99,59872,False,female,0.99,59872,False,,False,True
+Giulia Assirelli,Giulia,1,female,female,0.99,252152,False,female,0.99,252152,False,,False,True
+Giuliano Bonoli,Giuliano,1,male,male,1.0,51286,False,male,1.0,51286,False,,False,True
+Gladys Lang,Gladys,1,female,female,0.99,160558,False,female,0.99,160558,False,,False,True
+Glen Elder Jr.,Glen,1,male,male,0.94,81903,False,male,0.94,81903,False,,False,True
+Glenn Bracey,Glenn,1,male,male,1.0,141340,False,male,1.0,141340,False,,False,True
+Glenn Deane,Glenn,1,male,male,1.0,141340,False,male,1.0,141340,False,,False,True
+Gowri Vijayakumar,Gowri,1,female,female,0.94,6745,False,female,0.94,6745,False,,False,True
+Grace B. Yukich,Grace,2,female,female,0.99,292030,False,female,0.99,292030,False,,False,True
+Graham Button,Graham,1,male,male,1.0,124091,False,male,1.0,124091,False,,False,True
+Greg Prieto,Greg,1,male,male,1.0,386263,False,male,1.0,386263,False,,False,True
+Gregg Kordsmeier,Gregg,1,male,male,1.0,31401,False,male,1.0,31401,False,,False,True
+Gregory Kordsmeier,Gregory,1,male,male,1.0,214586,False,male,1.0,214586,False,,False,True
+Gregory M. Maney,Gregory,2,male,male,1.0,214586,False,male,1.0,214586,False,,False,True
+Greta R. Krippner,Greta,2,female,female,0.99,52310,False,female,0.99,52310,False,,False,True
+Gretchen Purser,Gretchen,3,female,female,1.0,29826,False,female,1.0,29826,False,,False,True
+Grégoire Mallard,Grgoire,2,male,male,0.98,1415,False,male,0.98,1415,False,,False,True
+Guilheme Perodeau,Guilheme,1,male,male,0.9,48,False,male,0.9,48,False,,False,True
+Gunn Elisabeth Birkelund,Gunn,1,female,female,0.81,792,True,female,0.81,792,True,female,False,True
+Guobin Yang,Guobin,1,male,male,0.99,66,False,male,0.99,66,False,,False,True
+Hae Yeon Choo,Hae,3,female,female,0.8,2574,True,female,0.8,2574,True,female,False,True
+Hajar Yazdiha,Hajar,1,female,female,0.94,77466,False,female,0.94,77466,False,,False,True
+Hana E. Brown,Hana,6,female,female,0.97,158242,False,female,0.97,158242,False,,False,True
+Hannah Holleman,Hannah,2,female,female,1.0,278486,False,female,1.0,278486,False,,False,True
+Hannah Ryan,Hannah,1,female,female,1.0,278486,False,female,1.0,278486,False,,False,True
+Hannah Wohl,Hannah,1,female,female,1.0,278486,False,female,1.0,278486,False,,False,True
+Harvey Molotch,Harvey,1,male,male,0.99,37435,False,male,0.99,37435,False,,False,True
+Hassan El Tinay,Hassan,2,male,male,0.98,596993,False,male,0.98,596993,False,,False,True
+Hazem Kandil,Hazem,1,male,male,0.98,63403,False,male,0.98,63403,False,,False,True
+Heather H. Gatny,Heather,1,female,female,1.0,351976,False,female,1.0,351976,False,,False,True
+Heather Schoenfeld,Heather,1,female,female,1.0,351976,False,female,1.0,351976,False,,False,True
+Heather Thompson,Heather,1,female,female,1.0,351976,False,female,1.0,351976,False,,False,True
+Hedwig Lee,Hedwig,3,female,female,0.92,3715,False,female,0.92,3715,False,,False,True
+Heiko Rauhut,Heiko,1,male,male,1.0,32661,False,male,1.0,32661,False,,False,True
+Helen Kowalewska,Helen,1,female,female,1.0,376172,False,female,1.0,376172,False,,False,True
+Helen Marrow,Helen,1,female,female,1.0,376172,False,female,1.0,376172,False,,False,True
+Henry Yeomans,Henry,1,male,male,0.99,359582,False,male,0.99,359582,False,,False,True
+Hillary Angelo,Hillary,1,female,female,0.78,10112,True,female,0.78,10112,True,female,False,True
+Hirokazu Shirado,Hirokazu,1,male,male,1.0,655,False,male,1.0,655,False,,False,True
+Ho-fung Hung,Ho-fung,6,male,male,0.67,1,True,male,0.67,1,True,male,False,True
+Hollie Nyseth Brehm,Hollie,2,female,female,0.99,6699,False,female,0.99,6699,False,,False,True
+Hollie Nyseth Nzitatira,Hollie,3,female,female,0.99,6699,False,female,0.99,6699,False,,False,True
+Holly Foster,Holly,1,female,female,0.99,150148,False,female,0.99,150148,False,,False,True
+Hongyuan Han,Hongyuan,2,unknown,male,0.84,83,True,male,0.84,83,True,uncertain,False,False
+Hope Xu Yan,Hope,1,female,female,0.92,55134,False,female,0.92,55134,False,,False,True
+Hui Fen Tan,Hui,2,female,female,0.88,30943,True,female,0.88,30943,True,female,False,True
+Hui Liu,Hui,1,female,female,0.88,30943,True,female,0.88,30943,True,,False,True
+Hui Xie,Hui,1,unknown,female,0.88,30943,True,female,0.88,30943,True,uncertain,False,False
+Hui Zheng,Hui,1,male,female,0.88,30943,True,female,0.88,30943,True,male,False,False
+Huseyin Zeyd Koytak,Huseyin,1,male,male,0.99,170250,False,male,0.99,170250,False,,False,True
+Hwa Ji Shin,Hwa,1,female,male,0.53,1286,True,male,0.53,1286,True,female,False,False
+Hyeyoung Kwon,Hyeyoung,2,female,female,0.97,278,False,female,0.97,278,False,,False,True
+Hyojoung Kim,Hyojoung,1,male,male,0.5,2,True,male,0.5,2,True,male,False,True
+Ian Fellows,Ian,1,male,male,1.0,376098,False,male,1.0,376098,False,,False,True
+Ian Lundberg,Ian,1,male,male,1.0,376098,False,male,1.0,376098,False,,False,True
+Iddo Tavory,Iddo,1,male,male,0.98,442,False,male,0.98,442,False,,False,True
+In Paik,In,1,unknown,female,0.73,4049,True,female,0.73,4049,True,uncertain,False,False
+Insa Koch,Insa,1,female,female,0.59,1043,True,female,0.59,1043,True,female,False,True
+Ioana Marinescu,Ioana,1,female,female,0.99,40785,False,female,0.99,40785,False,,False,True
+Ioana Sendroiu,Ioana,1,female,female,0.99,40785,False,female,0.99,40785,False,,False,True
+Ion Bogdan Vasi,Ion,2,male,male,0.97,38462,False,male,0.97,38462,False,,False,True
+Ioulia Bessa,Ioulia,1,female,female,0.98,440,False,female,0.98,440,False,,False,True
+Irene Hyangseon Ahn,Irene,1,female,female,0.99,381311,False,female,0.99,381311,False,,False,True
+Irene I. Vega,Irene,1,female,female,0.99,381311,False,female,0.99,381311,False,,False,True
+Irene Pañeda-Fernández,Irene,1,female,female,0.99,381311,False,female,0.99,381311,False,,False,True
+Isaac Reed,Isaac,2,male,male,0.99,220759,False,male,0.99,220759,False,,False,True
+Isabel Fernandez-Mateo,Isabel,2,female,female,0.99,484488,False,female,0.99,484488,False,,False,True
+Isin Guler,Isin,1,female,female,0.67,401,True,female,0.67,401,True,female,False,True
+Isobel M. Findlay,Isobel,1,female,female,1.0,9463,False,,,,,,False,True
+Israel Drori,Israel,1,male,male,0.99,149611,False,male,0.99,149611,False,,False,True
+Issa Kohler-Hausmann,Issa,1,female,male,0.88,37148,True,male,0.88,37148,True,female,False,False
+István Back,Istvn,1,male,male,1.0,20928,False,male,1.0,20928,False,,False,True
+Ithai Z. Lurie,Ithai,1,male,male,0.67,19,True,,,,,,False,True
+Ivan Ermakoff,Ivan,1,male,male,0.99,698976,False,male,0.99,698976,False,,False,True
+Ivy Kennelly,Ivy,1,female,female,0.97,29391,False,female,0.97,29391,False,,False,True
+J. Blake Turner,J,1,male,,0.0,0,True,,,,True,male,False,False
+J. Dalton Stevens,J,1,male,,0.0,0,True,,,,True,male,False,False
+J. E. Sumerau,J,1,nonbinary,,0.0,0,True,,,,True,nonbinary,False,False
+J.Lotus Seeley,JLotus,1,female,female,0.67,1,True,female,0.67,1,True,female,False,True
+Jack A. Goldstone,Jack,3,male,male,0.99,527999,False,male,0.99,527999,False,,False,True
+Jack Jin Gary Lee,Jack,1,male,male,0.99,527999,False,male,0.99,527999,False,,False,True
+Jack LaViolette,Jack,1,male,male,0.99,527999,False,male,0.99,527999,False,,False,True
+Jackelyn Hwang,Jackelyn,3,female,female,0.99,2518,False,female,0.99,2518,False,,False,True
+Jacob Faber,Jacob,2,male,male,1.0,300809,False,male,1.0,300809,False,,False,True
+Jacob M. Grumbach,Jacob,1,male,male,1.0,300809,False,male,1.0,300809,False,,False,True
+Jacob Portela,Jacob,1,male,male,1.0,300809,False,male,1.0,300809,False,,False,True
+Jacqui Frost,Jacqui,1,female,female,0.97,9366,False,female,0.97,9366,False,,False,True
+Jae-Mahon Shim,Jae-Mahon,1,male,,0.0,0,True,,0.0,0,True,male,False,False
+Jaeeun Kim,Jaeeun,1,female,female,0.8,164,True,female,0.8,164,True,female,False,True
+Jaime Kucinskas,Jaime,2,female,male,0.96,202831,False,male,0.96,202831,False,,True,False
+Jaimie Morse,Jaimie,1,female,female,0.79,2358,True,female,0.79,2358,True,female,False,True
+Jake Rosenfeld,Jake,2,male,male,0.99,185347,False,male,0.99,185347,False,,False,True
+Jake Watson,Jake,1,male,male,0.99,185347,False,male,0.99,185347,False,,False,True
+James A. Evans,James,2,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James Chu,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James Hendrickson,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James J. Feigenbaum,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James Kitts,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James M. Raymo,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James Montgomery,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James Moody,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+James R. Elliott,James,1,male,male,1.0,1459299,False,male,1.0,1459299,False,,False,True
+Jamie Budnick,Jamie,1,female,male,0.66,107074,True,male,0.66,107074,True,female,False,False
+Jamie Oslawski-Lopez,Jamie,1,female,male,0.66,107074,True,male,0.66,107074,True,female,False,False
+Jamie Suki Chang,Jamie,1,female,male,0.66,107074,True,male,0.66,107074,True,female,False,False
+Jan Ch. Karlsson,Jan,1,male,male,0.89,344604,True,male,0.89,344604,True,male,False,True
+Jan Paul Heisig,Jan,1,male,male,0.89,344604,True,male,0.89,344604,True,male,False,True
+Jan Saarela,Jan,1,male,male,0.89,344604,True,male,0.89,344604,True,male,False,True
+Jane Lankes,Jane,1,female,female,0.99,402529,False,female,0.99,402529,False,,False,True
+Jane McLeod,Jane,2,female,female,0.99,402529,False,female,0.99,402529,False,,False,True
+Jane R. Zavisca,Jane,1,female,female,0.99,402529,False,female,0.99,402529,False,,False,True
+Janet Chen-Lan Kuo,Janet,1,female,female,1.0,320294,False,female,1.0,320294,False,,False,True
+Japonica Brown-Saracino,Japonica,2,female,female,0.96,69,False,female,0.96,69,False,,False,True
+Jared F. Edgerton,Jared,1,male,male,1.0,105457,False,male,1.0,105457,False,,False,True
+Jared N. Schachner,Jared,1,male,male,1.0,105457,False,male,1.0,105457,False,,False,True
+Jarrett Spiro,Jarrett,1,male,male,1.0,8759,False,male,1.0,8759,False,,False,True
+Jason Beckfield,Jason,2,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Fletcher,Jason,1,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Gallo,Jason,1,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Hughes,Jason,1,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Kaufman,Jason,2,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason L. Ferguson,Jason,2,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Moore,Jason,1,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Jason Schnittker,Jason,1,male,male,1.0,786470,False,male,1.0,786470,False,,False,True
+Javier G Polavieja,Javier,1,male,male,1.0,794996,False,male,1.0,794996,False,,False,True
+Jayanti Owens,Jayanti,3,female,female,0.89,3984,True,female,0.89,3984,True,female,False,True
+Jean Jenkins,Jean,1,female,female,0.62,802489,True,female,0.62,802489,True,female,False,True
+Jean-Baptiste Berry,Jean-Baptiste,1,male,male,1.0,23338,False,male,1.0,23338,False,,False,True
+Jean-Damascene Gasanabo,Jean-Damascene,1,male,male,0.75,2,True,male,0.75,2,True,male,False,True
+Jean-Phillipe Cointet,Jean-Phillipe,1,male,male,0.97,102,False,male,0.97,102,False,,False,True
+Jean-Pierre Reed,Jean-Pierre,1,male,male,1.0,68107,False,male,1.0,68107,False,,False,True
+Jeff Goodwin,Jeff,1,male,male,1.0,556227,False,male,1.0,556227,False,,False,True
+Jeffrey C. Alexander,Jeffrey,2,male,male,1.0,270898,False,male,1.0,270898,False,,False,True
+Jeffrey J. Sallaz,Jeffrey,1,male,male,1.0,270898,False,male,1.0,270898,False,,False,True
+Jeffrey Kentor,Jeffrey,2,male,male,1.0,270898,False,male,1.0,270898,False,,False,True
+Jelena Golubović,Jelena,2,female,female,0.99,60310,False,female,0.99,60310,False,,False,True
+Jen Schradie,Jen,1,female,female,0.9,37188,False,female,0.9,37188,False,,False,True
+Jenna Pandeli,Jenna,1,female,female,1.0,100844,False,female,1.0,100844,False,,False,True
+Jennie E. Brand,Jennie,3,female,female,1.0,50395,False,female,1.0,50395,False,,False,True
+Jennifer A. Jones,Jennifer,4,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Ailshire,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Bair,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Bickham Mendez,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer C. Lee,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer C. Mueller,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Carlson,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer E. Givens,Jennifer,2,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Jennings,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Karas Montez,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer L. Rudolph,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Lee,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Light,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Lois,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer M. Silva,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Randles,Jennifer,2,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer S. Barber,Jennifer,2,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Sumner,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jennifer Utrata,Jennifer,1,female,female,1.0,1102153,False,female,1.0,1102153,False,,False,True
+Jeremy Brooke Straughn,Jeremy,1,male,male,1.0,359216,False,male,1.0,359216,False,,False,True
+Jeremy E. Fiel,Jeremy,1,male,male,1.0,359216,False,male,1.0,359216,False,,False,True
+Jeremy Levine,Jeremy,1,male,male,1.0,359216,False,male,1.0,359216,False,,False,True
+Jeremy Tanner,Jeremy,1,male,male,1.0,359216,False,male,1.0,359216,False,,False,True
+Jerry Z. Park,Jerry,1,male,male,0.99,306521,False,male,0.99,306521,False,,False,True
+Jesse Cordes Selbin,Jesse,1,female,male,0.98,182499,False,male,0.98,182499,False,,True,False
+Jesse Hoey,Jesse,3,male,male,0.98,182499,False,male,0.98,182499,False,,False,True
+Jesse Smith,Jesse,1,male,male,0.98,182499,False,male,0.98,182499,False,,False,True
+Jesse Yeh,Jesse,1,male,male,0.98,182499,False,male,0.98,182499,False,,False,True
+Jessica Jaiswal,Jessica,1,female,female,1.0,1168206,False,female,1.0,1168206,False,,False,True
+Jessica Kelley,Jessica,1,female,female,1.0,1168206,False,female,1.0,1168206,False,,False,True
+Jessica Pearlman,Jessica,1,female,female,1.0,1168206,False,female,1.0,1168206,False,,False,True
+Jessica Vasquez Tokos,Jessica,1,female,female,1.0,1168206,False,female,1.0,1168206,False,,False,True
+Jiahui Xu,Jiahui,1,female,female,0.77,735,True,female,0.77,735,True,female,False,True
+Jiannbin Lee Shiao,Jiannbin,1,male,,0.0,0,True,,0.0,0,True,male,False,False
+Jie Chen,Jie,1,female,male,0.52,7940,True,male,0.52,7940,True,female,False,False
+Jiejin Li,Jiejin,1,unknown,male,0.57,5,True,male,0.57,5,True,uncertain,False,False
+Jielu Lin,Jielu,1,female,female,0.83,4,True,female,0.83,4,True,female,False,True
+Jill A. Fisher,Jill,1,female,female,1.0,183637,False,female,1.0,183637,False,,False,True
+Jill Ebrey,Jill,1,female,female,1.0,183637,False,female,1.0,183637,False,,False,True
+Jill Harrison,Jill,2,female,female,1.0,183637,False,female,1.0,183637,False,,False,True
+Jill Quadagno,Jill,1,female,female,1.0,183637,False,female,1.0,183637,False,,False,True
+Jill Rubery,Jill,1,female,female,1.0,183637,False,female,1.0,183637,False,,False,True
+Jin Sun,Jin,2,male,male,0.67,16321,True,male,0.67,16321,True,male,False,True
+Joachim Savelsberg,Joachim,1,male,male,1.0,53279,False,male,1.0,53279,False,,False,True
+Joanna Dreby,Joanna,1,female,female,0.99,290637,False,female,0.99,290637,False,,False,True
+Jody Agius Vallejo,Jody,1,female,female,0.68,19533,True,female,0.68,19533,True,female,False,True
+Joe LaBriola,Joe,1,male,male,0.99,725022,False,male,0.99,725022,False,,False,True
+Joe Soss,Joe,1,male,male,0.99,725022,False,male,0.99,725022,False,,False,True
+Joel Mittleman,Joel,4,male,male,0.99,423403,False,male,0.99,423403,False,,False,True
+Johanne Collin,Johanne,1,female,female,0.99,20693,False,female,0.99,20693,False,,False,True
+John A. Donaldson,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Bellamy Foster,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John F. Padgett,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Foran,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Gasana Gasasira,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John H Goldthorpe,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Hagan,John,2,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Heritage,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Hockey,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Kuk,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John MacPherson,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John N. Robinson III,John,3,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John O'Brien,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Robert Warren,John,2,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John S. Johnson,John,2,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John S. McKenzie,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John Schneider,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+John W. Mohr,John,1,male,male,1.0,2693029,False,male,1.0,2693029,False,,False,True
+Jon Gordon,Jon,1,male,male,0.99,301029,False,male,0.99,301029,False,,False,True
+Jon Overton,Jon,2,male,male,0.99,301029,False,male,0.99,301029,False,,False,True
+Jon Rogstad,Jon,1,male,male,0.99,301029,False,male,0.99,301029,False,,False,True
+Jon Shefner,Jon,1,male,male,0.99,301029,False,male,0.99,301029,False,,False,True
+Jonas Helgertz,Jonas,2,male,male,0.99,159436,False,male,0.99,159436,False,,False,True
+Jonathan M. Ibarra,Jonathan,1,male,male,1.0,795354,False,male,1.0,795354,False,,False,True
+Jonathan S. Coley,Jonathan,2,male,male,1.0,795354,False,male,1.0,795354,False,,False,True
+Jordan A. Conwell,Jordan,1,male,male,0.9,149418,False,male,0.9,149418,False,,False,True
+Jordanna Matlon,Jordanna,2,female,female,1.0,1307,False,female,1.0,1307,False,,False,True
+Jorge Daniel Vásquez,Jorge,2,male,male,1.0,1254599,False,male,1.0,1254599,False,,False,True
+Joscha Legewie,Joscha,3,male,male,0.95,483,False,male,0.95,483,False,,False,True
+Joseph Gerteis,Joseph,1,male,male,0.99,791182,False,male,0.99,791182,False,,False,True
+Joseph J Hall,Joseph,1,male,male,0.99,791182,False,male,0.99,791182,False,,False,True
+Joseph Workman,Joseph,1,male,male,0.99,791182,False,male,0.99,791182,False,,False,True
+Josh Pacewicz,Josh,3,male,male,1.0,292693,False,male,1.0,292693,False,,False,True
+Josh Pollock,Josh,1,male,male,1.0,292693,False,male,1.0,292693,False,,False,True
+Josh Seim,Josh,1,male,male,1.0,292693,False,male,1.0,292693,False,,False,True
+Joshua Becker,Joshua,1,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joshua Bloom,Joshua,3,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joshua E. Blumenstock,Joshua,1,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joshua Lew McDermott,Joshua,1,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joshua Murray,Joshua,1,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joshua Page,Joshua,1,male,male,1.0,399422,False,male,1.0,399422,False,,False,True
+Joss Greene,Joss,2,male,male,0.68,8011,True,male,0.68,8011,True,male,False,True
+Joy Chen,Joy,1,female,female,0.92,216304,False,female,0.92,216304,False,,False,True
+Joy Kadowaki,Joy,1,female,female,0.92,216304,False,female,0.92,216304,False,,False,True
+Joyce Apsel,Joyce,1,female,female,0.99,258656,False,female,0.99,258656,False,,False,True
+Juan Herrera,Juan,1,male,male,0.99,2145368,False,male,0.99,2145368,False,,False,True
+Judith Stacey,Judith,2,female,female,1.0,239452,False,female,1.0,239452,False,,False,True
+Judith Stepan-Norris,Judith,2,female,female,1.0,239452,False,female,1.0,239452,False,,False,True
+Judith Treas,Judith,2,female,female,1.0,239452,False,female,1.0,239452,False,,False,True
+Julene Kemp Cooney,Julene,1,female,female,0.99,1626,False,female,0.99,1626,False,,False,True
+Julia Burdick-Will,Julia,1,female,female,0.99,636862,False,female,0.99,636862,False,,False,True
+Julia C. Lerch,Julia,1,female,female,0.99,636862,False,female,0.99,636862,False,,False,True
+Julia DiBenigno,Julia,1,female,female,0.99,636862,False,female,0.99,636862,False,,False,True
+Julia Lerner,Julia,1,female,female,0.99,636862,False,female,0.99,636862,False,,False,True
+Julia Nast,Julia,1,female,female,0.99,636862,False,female,0.99,636862,False,,False,True
+Julian Go,Julian,2,male,male,0.99,305475,False,male,0.99,305475,False,,False,True
+Julie Bettie,Julie,1,female,female,0.99,754415,False,female,0.99,754415,False,,False,True
+Julie Stewart,Julie,2,female,female,0.99,754415,False,female,0.99,754415,False,,False,True
+Julio Villa-Palomino,Julio,1,male,male,1.0,482386,False,male,1.0,482386,False,,False,True
+Jun Fang,Jun,1,male,male,0.85,27306,True,male,0.85,27306,True,male,False,True
+Jun Xu,Jun,1,male,male,0.85,27306,True,male,0.85,27306,True,Male,False,True
+Jung Mee Park,Jung,1,female,male,0.63,6479,True,male,0.63,6479,True,female,False,False
+Junia Howell,Junia,2,female,female,0.97,3613,False,female,0.97,3613,False,,False,True
+Justin Farrell,Justin,1,male,male,0.99,440251,False,male,0.99,440251,False,,False,True
+Justin Heinze,Justin,1,male,male,0.99,440251,False,male,0.99,440251,False,,False,True
+Jörg Dollmann,Jrg,1,male,male,0.99,11952,False,male,0.99,11952,False,,False,True
+Kahryn Hughes,Kahryn,1,female,female,0.97,31,False,female,0.97,31,False,,False,True
+Kailey White,Kailey,1,female,female,0.99,5484,False,female,0.99,5484,False,,False,True
+Kaitlin M. Boyle,Kaitlin,1,female,female,1.0,26117,False,female,1.0,26117,False,,False,True
+Kangsan Lee,Kangsan,1,male,male,0.91,21,False,male,0.91,21,False,,False,True
+Karen A. Cerulo,Karen,1,female,female,0.99,967928,False,female,0.99,967928,False,,False,True
+Karen Albright,Karen,1,female,female,0.99,967928,False,female,0.99,967928,False,,False,True
+Karen Bradley,Karen,1,female,female,0.99,967928,False,female,0.99,967928,False,,False,True
+Karen Cuthbert,Karen,1,female,female,0.99,967928,False,female,0.99,967928,False,,False,True
+Karen D. Pyke,Karen,1,female,female,0.99,967928,False,female,0.99,967928,False,,False,True
+Karestan Koenen,Karestan,1,female,male,0.5,2,True,male,0.5,2,True,female,False,False
+Kari Marie Norgaard,Kari,1,female,female,0.86,79644,True,female,0.86,79644,True,female,False,True
+Karin Knorr Cetina,Karin,1,female,female,0.99,205039,False,female,0.99,205039,False,,False,True
+Karolyn Tyson,Karolyn,1,female,female,1.0,3223,False,female,1.0,3223,False,,False,True
+Kasey Henricks,Kasey,1,male,female,0.74,4918,True,female,0.74,4918,True,male,False,False
+Katharine Khanna,Katharine,1,female,female,1.0,16649,False,female,1.0,16649,False,,False,True
+Katharine McCabe,Katharine,1,female,female,1.0,16649,False,female,1.0,16649,False,,False,True
+Katherine A. DeCelles,Katherine,1,female,female,1.0,280389,False,female,1.0,280389,False,,False,True
+Katherine C. Kellogg,Katherine,1,female,female,1.0,280389,False,female,1.0,280389,False,,False,True
+Katherine Checkland,Katherine,1,female,female,1.0,280389,False,female,1.0,280389,False,,False,True
+Katherine Linder,Katherine,1,female,female,1.0,280389,False,female,1.0,280389,False,,False,True
+Katherine Weisshaar,Katherine,4,female,female,1.0,280389,False,female,1.0,280389,False,,False,True
+Kathryn Cassidy,Kathryn,1,female,female,1.0,129831,False,female,1.0,129831,False,,False,True
+Kathryn Christine Beck,Kathryn,1,female,female,1.0,129831,False,female,1.0,129831,False,,False,True
+Kathryn J. Lively,Kathryn,3,female,female,1.0,129831,False,female,1.0,129831,False,,False,True
+Kathryn L. Heinze,Kathryn,1,female,female,1.0,129831,False,female,1.0,129831,False,,False,True
+Kathryne M. Young,Kathryne,1,female,female,1.0,1271,False,female,1.0,1271,False,,False,True
+Katie Tonkiss,Katie,1,female,female,1.0,327174,False,female,1.0,327174,False,,False,True
+Katrina Myrvang Brown,Katrina,1,female,female,1.0,90596,False,female,1.0,90596,False,,False,True
+Katy Bennett,Katy,1,female,female,0.99,107336,False,female,0.99,107336,False,,False,True
+Katy Fox-Hodess,Katy,1,female,female,0.99,107336,False,female,0.99,107336,False,,False,True
+Katy Morris,Katy,1,female,female,0.99,107336,False,female,0.99,107336,False,,False,True
+Kay Husbands Fealing,Kay,1,female,female,0.64,47104,True,female,0.64,47104,True,female,False,True
+Kees van Kersbergen,Kees,1,male,male,0.99,39069,False,male,0.99,39069,False,,False,True
+Keith Marshall,Keith,1,male,male,1.0,303132,False,male,1.0,303132,False,,False,True
+Keith N. Hampton,Keith,3,male,male,1.0,303132,False,male,1.0,303132,False,,False,True
+Kelley J. Ortiz,Kelley,1,female,female,0.91,6598,False,female,0.91,6598,False,,False,True
+Kelly Fong,Kelly,1,female,female,0.91,195061,False,female,0.91,195061,False,,False,True
+Kelly H. Chong,Kelly,2,female,female,0.91,195061,False,female,0.91,195061,False,,False,True
+Kelly L. Russell,Kelly,1,female,female,0.91,195061,False,female,0.91,195061,False,,False,True
+Kelly Musick,Kelly,1,female,female,0.91,195061,False,female,0.91,195061,False,,False,True
+Ken-Hou Lin,Ken-Hou,1,male,,0.0,0,True,,0.0,0,True,male,False,False
+Kenneth F. Ferraro,Kenneth,2,male,male,1.0,284406,False,male,1.0,284406,False,,False,True
+Kenneth R. Hanson,Kenneth,1,male,male,1.0,284406,False,male,1.0,284406,False,,False,True
+Kevan Harris,Kevan,1,male,male,0.99,5218,False,male,0.99,5218,False,,False,True
+Kevin A. Whitehead,Kevin,2,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Kevin Estep,Kevin,2,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Kevin Fox Gotham,Kevin,1,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Kevin Kiley,Kevin,1,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Kevin L. Young,Kevin,1,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Kevin Lewis,Kevin,1,male,male,1.0,1276301,False,male,1.0,1276301,False,,False,True
+Khandakar Shahadat,Khandakar,1,male,male,0.92,302,False,male,0.92,302,False,,False,True
+Kim A. Weeden,Kim,2,female,female,0.75,196601,True,female,0.75,196601,True,female,False,True
+Kim Allen,Kim,1,female,female,0.75,196601,True,female,0.75,196601,True,female,False,True
+Kim Ebert,Kim,1,female,female,0.75,196601,True,female,0.75,196601,True,female,False,True
+Kim Shuey,Kim,1,female,female,0.75,196601,True,female,0.75,196601,True,female,False,True
+Kimberly B. Rogers,Kimberly,3,female,female,1.0,311758,False,female,1.0,311758,False,,False,True
+Kimberly Kay Hoang,Kimberly,8,female,female,1.0,311758,False,female,1.0,311758,False,,False,True
+Kiran Stallone,Kiran,1,female,male,0.61,29355,True,male,0.61,29355,True,female,False,False
+Kirsten Dellinger,Kirsten,1,female,female,0.99,81041,False,female,0.99,81041,False,,False,True
+Kitty Calavita,Kitty,3,female,female,0.98,46552,False,female,0.98,46552,False,,False,True
+Kiyoteru Tsutsui,Kiyoteru,5,male,male,0.91,9,True,male,0.91,9,True,male,False,True
+Klaus Weber,Klaus,1,male,male,0.99,101235,False,male,0.99,101235,False,,False,True
+Knut Laaser,Knut,1,male,male,1.0,16435,False,male,1.0,16435,False,,False,True
+Ko Kuwabara,Ko,1,male,male,0.7,20032,True,male,0.7,20032,True,male,False,True
+Koji Chavez,Koji,3,male,male,0.99,8429,False,male,0.99,8429,False,,False,True
+Krista E. Paulsen,Krista,1,female,female,1.0,56490,False,female,1.0,56490,False,,False,True
+Kristen Harknett,Kristen,3,female,female,0.99,133333,False,female,0.99,133333,False,,False,True
+Kristen McNeill,Kristen,1,female,female,0.99,133333,False,female,0.99,133333,False,,False,True
+Kristen Schilt,Kristen,2,female,female,0.99,133333,False,female,0.99,133333,False,,False,True
+Kristian Heggebø,Kristian,1,male,male,0.97,27489,False,male,0.97,27489,False,,False,True
+Kristie O'Neill,Kristie,1,female,female,1.0,25216,False,female,1.0,25216,False,,False,True
+Kristina Kolbe,Kristina,1,female,female,0.99,196490,False,female,0.99,196490,False,,False,True
+Kristof De Witte,Kristof,2,male,male,1.0,15898,False,male,1.0,15898,False,,False,True
+Kristopher Velasco,Kristopher,1,male,male,1.0,16261,False,male,1.0,16261,False,,False,True
+Krzysztof Krakowski,Krzysztof,1,male,male,1.0,162432,False,male,1.0,162432,False,,False,True
+Kurt Lang,Kurt,1,male,male,1.0,110548,False,male,1.0,110548,False,,False,True
+Kwai Hang Ng,Kwai,1,male,male,0.55,743,True,male,0.55,743,True,male,False,True
+Lain A. B. Mathers,Lain,1,nonbinary,male,0.52,808,True,male,0.52,808,True,nonbinary,False,False
+Lala Steelman,Lala,2,female,female,0.82,52865,True,female,0.82,52865,True,female,False,True
+Landon Schnabel,Landon,4,male,male,0.99,14721,False,male,0.99,14721,False,,False,True
+Lant Pritchett,Lant,1,male,male,0.79,45,True,male,0.79,45,True,male,False,True
+Larry Ray,Larry,1,male,male,1.0,299821,False,male,1.0,299821,False,,False,True
+Larry W. Isaac,Larry,4,male,male,1.0,299821,False,male,1.0,299821,False,,False,True
+Lars Højsgaard Andersen,Lars,1,male,male,1.0,146479,False,male,1.0,146479,False,,False,True
+Laszlo Polos,Laszlo,1,male,male,0.99,22498,False,male,0.99,22498,False,,False,True
+Laura Acosta,Laura,2,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura C. Frizzell,Laura,2,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Doering,Laura,3,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura E. Enriquez,Laura,1,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Hamilton,Laura,2,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura K. Soter,Laura,2,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Krull,Laura,1,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Mauldin,Laura,1,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Stark,Laura,1,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laura Upenieks,Laura,2,female,female,0.99,1746703,False,female,0.99,1746703,False,,False,True
+Laureen D. Hom,Laureen,1,female,female,0.99,8569,False,female,0.99,8569,False,,False,True
+Laurel Smith-Doerr,Laurel,1,female,female,0.9,5214,False,female,0.9,5214,False,,False,True
+Laurel Westbrook,Laurel,3,female,female,0.9,5214,False,female,0.9,5214,False,,False,True
+Lauren A. Rivera,Lauren,7,female,female,0.99,353316,False,female,0.99,353316,False,,False,True
+Lauren Apgar,Lauren,1,female,female,0.99,353316,False,female,0.99,353316,False,,False,True
+Lauren Edelman,Lauren,1,female,female,0.99,353316,False,female,0.99,353316,False,,False,True
+Lauren M. Phillips,Lauren,1,female,female,0.99,353316,False,female,0.99,353316,False,,False,True
+Lauren Sessions Goulet,Lauren,2,female,female,0.99,353316,False,female,0.99,353316,False,,False,True
+Lavar Edmonds,Lavar,1,male,male,0.99,705,False,male,0.99,705,False,,False,True
+Lawrence P. King,Lawrence,1,male,male,0.99,127720,False,male,0.99,127720,False,,False,True
+Lawrence T. Nichols,Lawrence,1,male,male,0.99,127720,False,male,0.99,127720,False,,False,True
+Leafia Ye,Leafia,1,female,female,0.75,2,True,female,0.75,2,True,female,False,True
+Leah Gilman,Leah,1,female,female,1.0,125864,False,female,1.0,125864,False,,False,True
+Leda E. Nath,Leda,1,female,female,0.98,15034,False,female,0.98,15034,False,,False,True
+Leisy Abrego,Leisy,1,female,female,0.98,1042,False,female,0.98,1042,False,,False,True
+Lesley Hustinx,Lesley,1,female,female,0.88,29813,True,female,0.88,29813,True,female,False,True
+Leslie Gates,Leslie,1,female,female,0.83,67439,True,female,0.83,67439,True,female,False,True
+Liam Downey,Liam,4,male,male,0.99,112378,False,male,0.99,112378,False,,False,True
+Liana Sayer,Liana,1,female,female,0.99,37857,False,female,0.99,37857,False,,False,True
+Liberty Barnes,Liberty,1,female,female,0.82,8277,True,female,0.82,8277,True,female,False,True
+Lijun Song,Lijun,1,female,female,0.65,605,True,female,0.65,605,True,Female,False,True
+Liliana Riga,Liliana,1,female,female,0.99,283702,False,female,0.99,283702,False,,False,True
+Lillian Leung,Lillian,1,female,female,1.0,49942,False,female,1.0,49942,False,,False,True
+Lincoln G. Quillian,Lincoln,4,male,male,1.0,18650,False,male,1.0,18650,False,,False,True
+Linda George,Linda,1,female,female,0.99,951834,False,female,0.99,951834,False,,False,True
+Linda Kalof,Linda,1,female,female,0.99,951834,False,female,0.99,951834,False,,False,True
+Linda L. Price,Linda,1,female,female,0.99,951834,False,female,0.99,951834,False,,False,True
+Linda Zhao,Linda,1,female,female,0.99,951834,False,female,0.99,951834,False,,False,True
+Lindsey D. Cameron,Lindsey,1,female,female,0.98,24954,False,female,0.98,24954,False,,False,True
+Lindsey Richardson,Lindsey,1,female,female,0.98,24954,False,female,0.98,24954,False,,False,True
+Linzhi Zhang,Linzhi,1,female,male,0.56,23,True,male,0.56,23,True,female,False,False
+Lisa Hajjar,Lisa,1,female,female,1.0,990257,False,female,1.0,990257,False,,False,True
+Lisa Leitz,Lisa,1,female,female,1.0,990257,False,female,1.0,990257,False,,False,True
+Lisa McCormick,Lisa,1,female,female,1.0,990257,False,female,1.0,990257,False,,False,True
+Liz Grauerholz,Liz,1,female,female,1.0,243613,False,female,1.0,243613,False,,False,True
+Lok Lee Cho,Lok,1,unknown,male,0.81,5917,True,male,0.81,5917,True,uncertain,False,False
+Lori Sexton,Lori,1,female,female,0.99,212341,False,female,0.99,212341,False,,False,True
+Louise Laverty,Louise,1,female,female,0.99,263597,False,female,0.99,263597,False,,False,True
+Louwanda Evans,Louwanda,1,female,female,0.71,5,True,female,0.71,5,True,female,False,True
+Lucie Tourette,Lucie,1,female,female,0.99,208752,False,female,0.99,208752,False,,False,True
+Lucy Mayblin,Lucy,1,female,female,0.99,283887,False,female,0.99,283887,False,,False,True
+Lukas Haffert,Lukas,1,male,male,0.99,126419,False,male,0.99,126419,False,,False,True
+Lukas Norbutas,Lukas,1,male,male,0.99,126419,False,male,0.99,126419,False,,False,True
+Luna Glucksberg,Luna,1,female,female,0.97,87116,False,female,0.97,87116,False,,False,True
+Lynn D. Robinson,Lynn,1,female,female,0.94,55007,False,female,0.94,55007,False,,False,True
+Lynne Haney,Lynne,1,female,female,1.0,74572,False,female,1.0,74572,False,,False,True
+Lynne Woehrle,Lynne,1,female,female,1.0,74572,False,female,1.0,74572,False,,False,True
+Mabel Abraham,Mabel,1,female,female,0.99,67583,False,female,0.99,67583,False,,False,True
+Mabel Berezin,Mabel,1,female,female,0.99,67583,False,female,0.99,67583,False,,False,True
+Madison Danton,Madison,1,female,female,0.99,68155,False,female,0.99,68155,False,,False,True
+Magnus Bygren,Magnus,1,male,male,1.0,53810,False,male,1.0,53810,False,,False,True
+Mai Thai,Mai,1,female,female,0.96,115038,False,female,0.96,115038,False,,False,True
+Maja Debacker,Maja,1,female,female,0.99,78199,False,female,0.99,78199,False,,False,True
+Malcolm Fairbrother,Malcolm,3,male,male,1.0,62650,False,male,1.0,62650,False,,False,True
+Malte Ziewitz,Malte,1,male,male,0.99,5029,False,male,0.99,5029,False,,False,True
+Mansoor Moaddel,Mansoor,1,male,male,0.99,29104,False,male,0.99,29104,False,,False,True
+Manuel Rosaldo,Manuel,3,male,male,0.99,987558,False,male,0.99,987558,False,,False,True
+Marc Dixon,Marc,1,male,male,1.0,523874,False,male,1.0,523874,False,,False,True
+Marc Steinberg,Marc,2,male,male,1.0,523874,False,male,1.0,523874,False,,False,True
+Marc Zimmerman,Marc,1,male,male,1.0,523874,False,male,1.0,523874,False,,False,True
+Marcel Paret,Marcel,4,male,male,0.98,144082,False,male,0.98,144082,False,,False,True
+Marci D. Cottingham,Marci,1,female,female,0.86,16589,True,female,0.86,16589,True,female,False,True
+Marcin Stonawski,Marcin,1,male,male,1.0,215920,False,male,1.0,215920,False,,False,True
+Marco Garrido,Marco,2,male,male,1.0,1343806,False,male,1.0,1343806,False,,False,True
+Marcus Mann,Marcus,2,male,male,1.0,227365,False,male,1.0,227365,False,,False,True
+Margaret A. Turk,Margaret,1,female,female,1.0,265167,False,female,1.0,265167,False,,False,True
+Margaret Frye,Margaret,4,female,female,1.0,265167,False,female,1.0,265167,False,,False,True
+Margot Moinester,Margot,2,female,female,0.99,55503,False,female,0.99,55503,False,,False,True
+Maria Abascal,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria Charles,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria G Rendón,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria Gretzky,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria Orsini,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria Pérez-y-Pérez,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria Rubio-Cabañez,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Maria-Fátima Santos,Maria-Ftima,2,female,,0.0,0,True,,0.0,0,True,female,False,False
+Mariana Gerena,Mariana,1,female,female,0.99,394394,False,female,0.99,394394,False,,False,True
+Marie E. Berry,Marie,2,female,female,0.99,818470,False,female,0.99,818470,False,,False,True
+Marie Hojnacki,Marie,1,female,female,0.99,818470,False,female,0.99,818470,False,,False,True
+Mario Small,Mario,1,male,male,0.99,1031252,False,male,0.99,1031252,False,,False,True
+Marion Fourcade,Marion,3,female,female,0.97,113880,False,female,0.97,113880,False,,False,True
+Marisa Omori,Marisa,1,female,female,0.99,174867,False,female,0.99,174867,False,,False,True
+Marissa King,Marissa,1,female,female,1.0,76327,False,female,1.0,76327,False,,False,True
+Mariña Fernández-Reino,Maria,1,female,female,0.99,4097023,False,female,0.99,4097023,False,,False,True
+Mark Anthony Hoffman,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark D. Hayward,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark D. Regnerus,Mark,2,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark Fransham,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark Granovetter,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark Hamilton,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark Stuart,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Mark Weal,Mark,1,male,male,1.0,1379584,False,male,1.0,1379584,False,,False,True
+Markus H. Schafer,Markus,1,male,male,1.0,202543,False,male,1.0,202543,False,,False,True
+Martin Eiermann,Martin,1,male,male,0.99,1095850,False,male,0.99,1095850,False,,False,True
+Martin Kolk,Martin,1,male,male,0.99,1095850,False,male,0.99,1095850,False,,False,True
+Martin Krzywdzinski,Martin,1,male,male,0.99,1095850,False,male,0.99,1095850,False,,False,True
+Martin Ruef,Martin,2,male,male,0.99,1095850,False,male,0.99,1095850,False,,False,True
+Mary Bernstein,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary Jo Deegan,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary L. Fennell,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary Laske Bell,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary Patrick,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary Vogel,Mary,1,female,female,0.99,1355089,False,female,0.99,1355089,False,,False,True
+Mary-Collier Wilks,Mary-Collier,1,female,,0.0,0,True,,0.0,0,True,female,False,False
+María Ramos,Mara,1,female,female,0.97,168387,False,female,0.97,168387,False,,False,True
+María Vignau Loría,Mara,1,female,female,0.97,168387,False,female,0.97,168387,False,,False,True
+Masoud Movahed,Masoud,1,male,male,0.99,35356,False,male,0.99,35356,False,,False,True
+Mathew J. Creighton,Mathew,1,male,male,0.99,61693,False,male,0.99,61693,False,,False,True
+Mathew Johnson,Mathew,1,male,male,0.99,61693,False,male,0.99,61693,False,,False,True
+Mathieu O'Neil,Mathieu,1,male,male,0.99,152713,False,male,0.99,152713,False,,False,True
+Mathijs de Vaan,Mathijs,1,male,male,1.0,5526,False,male,1.0,5526,False,,False,True
+Matt Andrews,Matt,1,male,male,1.0,484062,False,male,1.0,484062,False,,False,True
+Matt L. Huffman,Matt,4,male,male,1.0,484062,False,male,1.0,484062,False,,False,True
+Matt Taddy,Matt,1,male,male,1.0,484062,False,male,1.0,484062,False,,False,True
+Matthew C. Mahutga,Matthew,3,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Clair,Matthew,2,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Desmond,Matthew,4,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew J. Salganik,Matthew,2,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Kane,Matthew,1,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Loveland,Matthew,1,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Norton,Matthew,1,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Pfeiffer,Matthew,1,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Rafalow,Matthew,2,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthew Soener,Matthew,2,male,male,1.0,653743,False,male,1.0,653743,False,,False,True
+Matthias Giordano,Matthias,1,male,male,1.0,125505,False,male,1.0,125505,False,,False,True
+Matthias Gross,Matthias,1,male,male,1.0,125505,False,male,1.0,125505,False,,False,True
+Matthias Koenig,Matthias,1,male,male,1.0,125505,False,male,1.0,125505,False,,False,True
+Maurice Zeitlin,Maurice,2,male,male,0.99,112560,False,male,0.99,112560,False,,False,True
+Mauro Guillen,Mauro,1,male,male,1.0,278576,False,male,1.0,278576,False,,False,True
+Max Besbris,Max,3,male,male,0.99,404006,False,male,0.99,404006,False,,False,True
+Maximilian Sprengholz,Maximilian,1,male,male,1.0,35658,False,male,1.0,35658,False,,False,True
+Megan Carroll,Megan,1,female,female,1.0,293107,False,female,1.0,293107,False,,False,True
+Melanie Hughes,Melanie,1,female,female,0.99,376661,False,female,0.99,376661,False,,False,True
+Melanie Jones Gast,Melanie,1,female,female,0.99,376661,False,female,0.99,376661,False,,False,True
+Melissa Hodges,Melissa,1,female,female,1.0,656997,False,female,1.0,656997,False,,False,True
+Melissa Osborne,Melissa,1,female,female,1.0,656997,False,female,1.0,656997,False,,False,True
+Melissa Wilde,Melissa,1,female,female,1.0,656997,False,female,1.0,656997,False,,False,True
+Meredith Kleykamp,Meredith,2,female,female,0.98,9171,False,female,0.98,9171,False,,False,True
+Merlin Schaeffer,Merlin,3,male,male,0.68,8938,True,male,0.68,8938,True,male,False,True
+Mia H. Tuan,Mia,1,female,female,0.97,143429,False,female,0.97,143429,False,,False,True
+Michael A. McCarthy,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Burawoy,Michael,2,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael C. Campbell,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Donnelly,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Goldman,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Gähler,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael H. Esposito,Michael,3,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Hannan,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Hechter,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Levien,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Marinetto,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael McCubbin,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Sauder,Michael,3,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Schwartz,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Shanahan,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael T. Wojnowicz,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Vuolo,Michael,4,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael W. Macy,Michael,6,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Woolcock,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michael Young,Michael,1,male,male,1.0,2538090,False,male,1.0,2538090,False,,False,True
+Michaela DeSoucey,Michaela,3,female,female,0.99,152478,False,female,0.99,152478,False,,False,True
+Michaela Potančoková,Michaela,1,female,female,0.99,152478,False,female,0.99,152478,False,,False,True
+Michel Estefan,Michel,1,male,male,0.94,241603,False,male,0.94,241603,False,,False,True
+Michela Musto,Michela,1,female,female,0.99,122157,False,female,0.99,122157,False,,False,True
+Michelle Budig,Michelle,1,female,female,1.0,904371,False,female,1.0,904371,False,,False,True
+Michelle F. Weinberger,Michelle,1,female,female,1.0,904371,False,female,1.0,904371,False,,False,True
+Michelle Maroto,Michelle,1,female,female,1.0,904371,False,female,1.0,904371,False,,False,True
+Mieke Thomeer,Mieke,1,female,female,1.0,24642,False,female,1.0,24642,False,,False,True
+Mike Savage,Mike,2,male,male,1.0,1146121,False,male,1.0,1146121,False,,False,True
+Mike Tse,Mike,1,male,male,1.0,1146121,False,male,1.0,1146121,False,,False,True
+Miliann Kang,Miliann,1,female,female,0.6,3,True,female,0.6,3,True,female,False,True
+Milli Lake,Milli,1,female,female,0.86,3645,True,female,0.86,3645,True,Female,False,True
+Minhao Zhang,Minhao,1,male,male,0.96,55,False,male,0.96,55,False,,False,True
+Minjae Kim,Minjae,3,male,male,0.92,706,False,male,0.92,706,False,,False,True
+Minsu Park,Minsu,1,male,male,0.91,409,False,male,0.91,409,False,,False,True
+Minwoo Jung,Minwoo,1,male,male,0.99,1011,False,male,0.99,1011,False,,False,True
+Mira D. Vale,Mira,1,female,female,0.91,93131,False,female,0.91,93131,False,,False,True
+Miranda R. Waggoner,Miranda,2,female,female,0.98,98047,False,female,0.98,98047,False,,False,True
+Mirian de Andrade,Mirian,1,female,female,0.99,62351,False,female,0.99,62351,False,,False,True
+Monica C. Bell,Monica,2,female,female,1.0,749811,False,female,1.0,749811,False,,False,True
+Monica Kirkpatrick Johnson,Monica,1,female,female,1.0,749811,False,female,1.0,749811,False,,False,True
+Monica Prasad,Monica,2,female,female,1.0,749811,False,female,1.0,749811,False,,False,True
+Moon-Kie Jung,Moon-Kie,1,male,,0.0,0,True,,0.0,0,True,male,False,False
+Moris Triventi,Moris,1,male,male,0.96,6271,False,male,0.96,6271,False,,False,True
+Mosi Ifatunji,Mosi,1,male,male,0.82,923,True,male,0.82,923,True,male,False,True
+Muriel Darmon,Muriel,1,female,female,0.99,68930,False,female,0.99,68930,False,,False,True
+Mustafa Emirbayer,Mustafa,1,male,male,0.99,744603,False,male,0.99,744603,False,,False,True
+Mustafa Yavaş,Mustafa,1,male,male,0.99,744603,False,male,0.99,744603,False,,False,True
+Myra Marx Ferree,Myra,1,female,female,0.99,32465,False,female,0.99,32465,False,,False,True
+Nan Zhang,Nan,1,male,female,0.86,31202,True,female,0.86,31202,True,male,False,False
+Nancy J. Davis,Nancy,2,female,female,1.0,668537,False,female,1.0,668537,False,,False,True
+Naomi Gerstel,Naomi,1,female,female,0.99,120541,False,female,0.99,120541,False,,False,True
+Natalia Deeb-Sossa,Natalia,1,female,female,0.99,534958,False,female,0.99,534958,False,,False,True
+Natalia Sarkisian,Natalia,2,female,female,0.99,534958,False,female,0.99,534958,False,,False,True
+Natasha Quadlin,Natasha,4,female,female,0.99,189659,False,female,0.99,189659,False,,False,True
+Natasha Slutskaya,Natasha,1,female,female,0.99,189659,False,female,0.99,189659,False,,False,True
+Natasha Warikoo,Natasha,2,female,female,0.99,189659,False,female,0.99,189659,False,,False,True
+Nathan Martin,Nathan,1,male,male,1.0,295948,False,male,1.0,295948,False,,False,True
+Nathan Wilmers,Nathan,1,male,male,1.0,295948,False,male,1.0,295948,False,,False,True
+Nathaniel Bulkley,Nathaniel,1,male,male,0.99,58134,False,male,0.99,58134,False,,False,True
+Neal Caren,Neal,1,male,male,1.0,35797,False,male,1.0,35797,False,,False,True
+Neal Krause,Neal,1,male,male,1.0,35797,False,male,1.0,35797,False,,False,True
+Neda Maghbouleh,Neda,1,female,female,0.98,20966,False,female,0.98,20966,False,,False,True
+Nehal Elmeligy,Nehal,1,female,female,0.85,13120,True,female,0.85,13120,True,female,False,True
+Neil Gong,Neil,1,male,male,1.0,206758,False,male,1.0,206758,False,,False,True
+Neil Lewis Jr.,Neil,1,male,male,1.0,206758,False,male,1.0,206758,False,,False,True
+Newton Key,Newton,1,male,male,0.99,13454,False,male,0.99,13454,False,,False,True
+Niall Reddy,Niall,1,male,male,1.0,22285,False,,,,,,False,True
+Nicholas Pedriana,Nicholas,3,male,male,1.0,296413,False,male,1.0,296413,False,,False,True
+Nicholas Theis,Nicholas,1,male,male,1.0,296413,False,male,1.0,296413,False,,False,True
+Nicholas Turse,Nicholas,1,male,male,1.0,296413,False,male,1.0,296413,False,,False,True
+Nicholas Vargas,Nicholas,2,male,male,1.0,296413,False,male,1.0,296413,False,,False,True
+Nick Bloom,Nick,1,male,male,0.99,478025,False,male,0.99,478025,False,,False,True
+Nick Crossley,Nick,1,male,male,0.99,478025,False,male,0.99,478025,False,,False,True
+Nick Petersen,Nick,1,male,male,0.99,478025,False,male,0.99,478025,False,,False,True
+Nick Stevenson,Nick,1,male,male,0.99,478025,False,male,0.99,478025,False,,False,True
+Nicola Beisel,Nicola,1,female,male,0.81,215644,True,male,0.81,215644,True,female,False,False
+Nicolas Hoover Wilson,Nicolas,1,male,male,1.0,595111,False,male,1.0,595111,False,,False,True
+Nicolas Jounin,Nicolas,1,male,male,1.0,595111,False,male,1.0,595111,False,,False,True
+Nicole Angotti,Nicole,2,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Denier,Nicole,1,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Fox,Nicole,2,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Gonzalez Van Cleve,Nicole,1,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Iturriaga,Nicole,1,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Kangas,Nicole,1,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nicole Marwell,Nicole,1,female,female,1.0,760704,False,female,1.0,760704,False,,False,True
+Nik Lampe,Nik,1,nonbinary,male,0.87,55061,True,male,0.87,55061,True,nonbinary,False,False
+Nima Dahir,Nima,1,female,male,0.81,14757,True,male,0.81,14757,True,female,False,False
+Nina Eliasoph,Nina,5,female,female,0.98,375312,False,female,0.98,375312,False,,False,True
+Nina Lockwood,Nina,1,female,female,0.98,375312,False,female,0.98,375312,False,,False,True
+Nira Yuval-Davis,Nira,1,female,female,0.93,2822,False,female,0.93,2822,False,,False,True
+Nisa Göksel,Nisa,1,female,female,0.96,20134,False,female,0.96,20134,False,,False,True
+Nissim Mizrachi,Nissim,1,male,male,0.99,2423,False,male,0.99,2423,False,,False,True
+Nitsan Chorev,Nitsan,1,female,female,0.57,332,True,female,0.57,332,True,female,False,True
+Noah P. Mark,Noah,3,male,male,0.97,77923,False,male,0.97,77923,False,,False,True
+Norbert Wiley,Norbert,1,male,male,1.0,79513,False,male,1.0,79513,False,,False,True
+Ognjen Obućina,Ognjen,1,male,male,1.0,1354,False,male,1.0,1354,False,,False,True
+Oliver Hahl,Oliver,2,male,male,0.99,219331,False,male,0.99,219331,False,,False,True
+Oluwakemi M. Balogun,Oluwakemi,1,female,female,0.98,8039,False,female,0.98,8039,False,,False,True
+Omar A. Lizardo,Omar,2,male,male,0.98,923446,False,male,0.98,923446,False,,False,True
+Omid Asayesh,Omid,1,male,male,0.99,33666,False,male,0.99,33666,False,,False,True
+Oren Livio,Oren,1,male,male,0.97,10699,False,male,0.97,10699,False,,False,True
+Orestes P. Hastings,Orestes,2,male,male,1.0,3579,False,male,1.0,3579,False,,False,True
+Ori Schwarz,Ori,1,male,male,0.71,7200,True,male,0.71,7200,True,male,False,True
+Orla Stapleton,Orla,1,female,female,0.91,4721,False,female,0.91,4721,False,,False,True
+Orlando Patterson,Orlando,1,male,male,0.99,170118,False,male,0.99,170118,False,,False,True
+Orville Lee,Orville,1,male,male,0.99,3962,False,male,0.99,3962,False,,False,True
+Owen Abbott,Owen,1,male,male,0.99,64189,False,male,0.99,64189,False,,False,True
+Owen Whooley,Owen,1,male,male,0.99,64189,False,male,0.99,64189,False,,False,True
+Pablo A. Mitnik,Pablo,1,male,male,0.99,554810,False,male,0.99,554810,False,,False,True
+Pablo Gastón,Pablo,3,male,male,0.99,554810,False,male,0.99,554810,False,,False,True
+Pablo Geraldo,Pablo,1,male,male,0.99,554810,False,male,0.99,554810,False,,False,True
+Paige Sweet,Paige,2,female,female,1.0,68371,False,female,1.0,68371,False,,False,True
+Pallavi Banerjee,Pallavi,1,female,female,1.0,34023,False,female,1.0,34023,False,,False,True
+Patricia Ahmed,Patricia,2,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Ewick,Patricia,2,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Homan,Patricia,2,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Louie,Patricia,1,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Morton,Patricia,1,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Thornton,Patricia,1,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patricia Yancey Martin,Patricia,1,female,female,1.0,1127820,False,female,1.0,1127820,False,,False,True
+Patrick Coy,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick Hamm,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick Reilly,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick S. Park,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick Sharkey,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick Underwood,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Patrick Watson,Patrick,1,male,male,1.0,917712,False,male,1.0,917712,False,,False,True
+Paul Allison,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Almeida,Paul,3,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Chang,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Chappell,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul D. McLean,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul DiMaggio,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Froese,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Ingram,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Jones,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Joosse,Paul,4,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Lichterman,Paul,4,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul Moore,Paul,1,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paul von Hippel,Paul,2,male,male,1.0,1471548,False,male,1.0,1471548,False,,False,True
+Paula D. Nesbitt,Paula,1,female,female,0.99,601220,False,female,0.99,601220,False,,False,True
+Paula England,Paula,3,female,female,0.99,601220,False,female,0.99,601220,False,,False,True
+Paula Fomby,Paula,1,female,female,0.99,601220,False,female,0.99,601220,False,,False,True
+Paula McDonald,Paula,1,female,female,0.99,601220,False,female,0.99,601220,False,,False,True
+Pawan Dhingra,Pawan,1,male,male,0.99,66873,False,male,0.99,66873,False,,False,True
+Peggy C. Giordano,Peggy,2,female,female,1.0,141368,False,female,1.0,141368,False,,False,True
+Peggy Levitt,Peggy,1,female,female,1.0,141368,False,female,1.0,141368,False,,False,True
+Peng Huang,Peng,3,male,male,0.92,19877,False,male,0.92,19877,False,,False,True
+Peng Wang,Peng,1,male,male,0.92,19877,False,male,0.92,19877,False,,False,True
+Penny Williams,Penny,1,female,female,0.99,87278,False,female,0.99,87278,False,,False,True
+Peter Bearman,Peter,2,male,male,1.0,1352696,False,male,1.0,1352696,False,,False,True
+Peter Catron,Peter,2,male,male,1.0,1352696,False,male,1.0,1352696,False,,False,True
+Peter Francis Harvey,Peter,2,male,male,1.0,1352696,False,male,1.0,1352696,False,,False,True
+Peter Ikeler,Peter,1,male,male,1.0,1352696,False,male,1.0,1352696,False,,False,True
+Peter Valet,Peter,1,male,male,1.0,1352696,False,male,1.0,1352696,False,,False,True
+Phi Hong Su,Phi,1,female,male,0.81,2016,True,male,0.81,2016,True,female,False,False
+Philip N. Cohen,Philip,2,male,male,1.0,259692,False,male,1.0,259692,False,,False,True
+Philipp Brandt,Philipp,1,male,male,1.0,71564,False,male,1.0,71564,False,,False,True
+Philippe Askenazy,Philippe,1,male,male,1.0,357467,False,male,1.0,357467,False,,False,True
+Phillip A. Hough,Phillip,1,male,male,1.0,123887,False,male,1.0,123887,False,,False,True
+Phillip Bonacich,Phillip,1,male,male,1.0,123887,False,male,1.0,123887,False,,False,True
+Phillip O. Coffin,Phillip,1,male,male,1.0,123887,False,male,1.0,123887,False,,False,True
+Phung N. Su,Phung,1,female,female,0.66,868,True,female,0.66,868,True,female,False,True
+Pierce Greenberg,Pierce,3,male,male,0.99,5493,False,male,0.99,5493,False,,False,True
+Pierre Barron,Pierre,1,male,male,0.99,380234,False,male,0.99,380234,False,,False,True
+Pierrette Hondagneu-Sotelo,Pierrette,1,female,female,0.99,12751,False,female,0.99,12751,False,,False,True
+Piet Bracke,Piet,1,male,male,0.95,22842,False,male,0.95,22842,False,,False,True
+Pilar Gonalons-Pons,Pilar,2,female,female,0.99,120908,False,female,0.99,120908,False,,False,True
+Poulami Roychowdhury,Poulami,5,female,female,0.95,162,False,female,0.95,162,False,,False,True
+Prema Kurien,Prema,3,female,female,0.94,8362,False,female,0.94,8362,False,,False,True
+Prentiss A. Dantzler,Prentiss,1,male,male,0.93,121,False,male,0.93,121,False,,False,True
+Prerna Singh,Prerna,1,female,female,1.0,10550,False,female,1.0,10550,False,,False,True
+Priscilla Yamin,Priscilla,1,female,female,1.0,119788,False,female,1.0,119788,False,,False,True
+Q. Forrest Zhang,Q,1,male,,0.0,0,True,,,,True,male,False,False
+Quan D. Mai,Quan,3,male,male,0.87,3399,True,male,0.87,3399,True,male,False,True
+R. Jay Turner,R,1,male,,0.0,0,True,,,,True,male,False,False
+Rachel Dilley,Rachel,1,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rachel Donnelly,Rachel,1,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rachel Elizabeth Fish,Rachel,2,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rachel Kahn Best,Rachel,1,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rachel O'Neill,Rachel,1,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rachel Wetts,Rachel,1,female,female,1.0,510050,False,female,1.0,510050,False,,False,True
+Rahim Kurwa,Rahim,1,male,male,0.97,49988,False,male,0.97,49988,False,,False,True
+Raina A. Brands,Raina,1,female,female,0.96,8012,False,female,0.96,8012,False,,False,True
+Raine Dozier,Raine,1,male,female,0.64,1474,True,female,0.64,1474,True,male,False,False
+Ran Tao,Ran,1,male,male,0.57,10532,True,male,0.57,10532,True,male,False,True
+Randall Collins,Randall,2,male,male,1.0,51620,False,male,1.0,51620,False,,False,True
+Randall Marshall,Randall,1,male,male,1.0,51620,False,male,1.0,51620,False,,False,True
+Ranita Ray,Ranita,4,female,female,0.93,1677,False,female,0.93,1677,False,,False,True
+Rashawn Ray,Rashawn,1,male,male,0.89,489,True,male,0.89,489,True,male,False,True
+Rebecca Elliott,Rebecca,1,female,female,1.0,492291,False,female,1.0,492291,False,,False,True
+Rebecca J. Erickson,Rebecca,1,female,female,1.0,492291,False,female,1.0,492291,False,,False,True
+Rebecca Jean Emigh,Rebecca,2,female,female,1.0,492291,False,female,1.0,492291,False,,False,True
+Rebecca Johnson,Rebecca,1,female,female,1.0,492291,False,female,1.0,492291,False,,False,True
+Rebecca Overgaard Udsen,Rebecca,1,female,female,1.0,492291,False,female,1.0,492291,False,,False,True
+Reed T. DeAngelis,Reed,1,male,male,0.98,13000,False,male,0.98,13000,False,,False,True
+Regina S. Baker,Regina,3,female,female,0.99,206686,False,female,0.99,206686,False,,False,True
+Renee R. Anspach,Renee,1,female,female,0.99,154307,False,female,0.99,154307,False,,False,True
+Rense Corten,Rense,1,male,male,0.95,167,False,male,0.95,167,False,,False,True
+René D. Flores,Ren,2,male,male,0.89,25256,True,male,0.89,25256,True,male,False,True
+Rhacel Salazar Parreñas,Rhacel,3,female,female,0.89,7,True,female,0.89,7,True,female,False,True
+Rhys H. Williams,Rhys,1,male,male,0.99,8855,False,male,0.99,8855,False,,False,True
+Ricardo D. Martínez-Schuldt,Ricardo,1,male,male,1.0,782304,False,male,1.0,782304,False,,False,True
+Richard Arum,Richard,1,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Richard L. Wood,Richard,2,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Richard O. Lempert,Richard,1,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Richard Prisinzano,Richard,1,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Richard Rubinson,Richard,1,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Richard York,Richard,7,male,male,1.0,1164111,False,male,1.0,1164111,False,,False,True
+Rick Fantasia,Rick,1,male,male,1.0,319617,False,male,1.0,319617,False,,False,True
+Rob Willer,Rob,2,male,male,1.0,362099,False,male,1.0,362099,False,,False,True
+Robb Willer,Robb,3,male,male,1.0,8143,False,male,1.0,8143,False,,False,True
+Robert A. Hummer,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Ackland,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Braun,Robert,5,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Carini,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Courtney Smith,Robert,2,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Crosnoe,Robert,2,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert D. Mare,Robert,2,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert D. Woodberry,Robert,3,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert F. Lusch,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Faris,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Fishman,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Freeland,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert J. Sampson,Robert,2,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert M. O'Brien,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Todd Perdue,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert V. Robinson,Robert,2,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert W. White,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Robert Wuthnow,Robert,1,male,male,1.0,1568940,False,male,1.0,1568940,False,,False,True
+Roberto Gonzales,Roberto,1,male,male,1.0,988421,False,male,1.0,988421,False,,False,True
+Roberto M. Fernandez,Roberto,1,male,male,1.0,988421,False,male,1.0,988421,False,,False,True
+Roberto Patricio Korzeniewicz,Roberto,3,male,male,1.0,988421,False,male,1.0,988421,False,,False,True
+Robin Bartram,Robin,3,female,male,0.77,126678,True,male,0.77,126678,True,female,False,False
+Robin L. Savinar,Robin,1,female,male,0.77,126678,True,male,0.77,126678,True,female,False,False
+Robin Stryker,Robin,3,female,male,0.77,126678,True,male,0.77,126678,True,female,True,False
+Robin W. Simon,Robin,3,female,male,0.77,126678,True,male,0.77,126678,True,female,True,False
+Robyn Lewis Brown,Robyn,1,female,female,0.99,71169,False,female,0.99,71169,False,,False,True
+Robyn Mayes,Robyn,1,female,female,0.99,71169,False,female,0.99,71169,False,,False,True
+Rocio Garcia,Rocio,1,female,female,0.99,157255,False,female,0.99,157255,False,,False,True
+Rod Watson,Rod,1,male,male,0.99,64246,False,male,0.99,64246,False,,False,True
+Roger Finke,Roger,1,male,male,1.0,378214,False,male,1.0,378214,False,,False,True
+Roi Livne,Roi,1,male,male,0.95,5934,False,male,0.95,5934,False,,False,True
+Ron Levi,Ron,1,male,male,0.99,314337,False,male,0.99,314337,False,,False,True
+Ron Reed,Ron,1,male,male,0.99,314337,False,male,0.99,314337,False,,False,True
+Rory McVeigh,Rory,1,male,male,0.82,13355,True,male,0.82,13355,True,male,False,True
+Rosalind Gill,Rosalind,1,female,female,1.0,15039,False,female,1.0,15039,False,,False,True
+Rosemary Crompton,Rosemary,2,female,female,1.0,86683,False,female,1.0,86683,False,,False,True
+Roshan K. Pandian,Roshan,2,male,male,0.91,20081,False,male,0.91,20081,False,,False,True
+Ruiquan Li,Ruiquan,1,male,male,0.93,12,True,male,0.93,12,True,male,False,True
+Russell Spiker,Russell,1,male,male,1.0,112852,False,,,,,,False,True
+Ruth Braunstein,Ruth,2,female,female,1.0,343136,False,female,1.0,343136,False,,False,True
+Ruth Penfold Mounce,Ruth,1,female,female,1.0,343136,False,female,1.0,343136,False,,False,True
+Ruth Simpson,Ruth,1,female,female,1.0,343136,False,female,1.0,343136,False,,False,True
+Ruthanne Huising,Ruthanne,1,female,female,1.0,1278,False,female,1.0,1278,False,,False,True
+Ryan Calder,Ryan,2,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan D. Schroeder,Ryan,1,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan King,Ryan,2,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan M. Finnigan,Ryan,3,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan P. Thombs,Ryan,2,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan Stillwagon,Ryan,1,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryan T. Cragun,Ryan,1,male,male,0.99,645936,False,male,0.99,645936,False,,False,True
+Ryken Grattet,Ryken,1,male,male,0.9,19,True,male,0.9,19,True,male,False,True
+Ryon Lancaster,Ryon,1,male,male,0.97,1135,False,male,0.97,1135,False,,False,True
+Sabine Hubgen,Sabine,1,female,female,0.99,177437,False,female,0.99,177437,False,,False,True
+Sabrina Danielsen,Sabrina,1,female,female,0.99,455846,False,female,0.99,455846,False,,False,True
+Sabrina Strings,Sabrina,1,female,female,0.99,455846,False,female,0.99,455846,False,,False,True
+Sadé L. Lindsay,Sad,1,female,male,0.71,14316,True,male,0.71,14316,True,female,False,False
+Safi Shams,Safi,1,male,male,0.67,13892,True,male,0.67,13892,True,male,False,True
+Sahan Savas Karatasli,Sahan,3,male,male,0.97,3636,False,male,0.97,3636,False,,False,True
+Said Hassan,Said,1,male,male,0.97,373813,False,male,0.97,373813,False,,False,True
+Saida Grundy,Saida,2,female,female,0.96,62937,False,female,0.96,62937,False,,False,True
+Sally Hines,Sally,1,female,female,0.99,207837,False,female,0.99,207837,False,,False,True
+Salvador Santino Regilme,Salvador,1,male,male,0.99,135234,False,male,0.99,135234,False,,False,True
+Salvador Vidal-Ortiz,Salvador,1,male,male,0.99,135234,False,male,0.99,135234,False,,False,True
+Sam Friedman,Sam,1,male,male,0.9,647976,False,male,0.9,647976,False,,False,True
+Sam Gorleer,Sam,1,male,male,0.9,647976,False,male,0.9,647976,False,,False,True
+Samantha Agarwal,Samantha,2,female,female,0.99,416998,False,female,0.99,416998,False,,False,True
+Samantha Kwan,Samantha,1,female,female,0.99,416998,False,female,0.99,416998,False,,False,True
+Samuel D. Stabler,Samuel,1,male,male,0.99,603672,False,male,0.99,603672,False,,False,True
+Samuel Kye,Samuel,1,male,male,0.99,603672,False,male,0.99,603672,False,,False,True
+Samuel R. Friedman,Samuel,1,male,male,0.99,603672,False,male,0.99,603672,False,,False,True
+Sandra R. Levitsky,Sandra,1,female,female,0.99,1412443,False,female,0.99,1412443,False,,False,True
+Sanyu A. Mojola,Sanyu,2,female,female,0.92,443,False,female,0.92,443,False,,False,True
+Sara Bastomski,Sara,1,female,female,0.98,1477473,False,female,0.98,1477473,False,,False,True
+Sara Lopus,Sara,1,female,female,0.98,1477473,False,female,0.98,1477473,False,,False,True
+Sara Shroff,Sara,1,female,female,0.98,1477473,False,female,0.98,1477473,False,,False,True
+Sarah A. Mustillo,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Babb,Sarah,2,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Brayne,Sarah,2,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Burgard,Sarah,2,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Cant,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Diefendorf,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Farr,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Fenstermaker,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah M. Lakhani,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Macdonald,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Neal,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Quinn,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Rosenfield,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Sobieraj,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Swider,Sarah,1,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sarah Thébaud,Sarah,2,female,female,0.99,1284628,False,female,0.99,1284628,False,,False,True
+Sasha Johfre,Sasha,1,female,female,0.59,42990,True,female,0.59,42990,True,female,False,True
+Scott D. Landes,Scott,1,male,male,1.0,603737,False,male,1.0,603737,False,,False,True
+Scott W. Duxbury,Scott,5,male,male,1.0,603737,False,male,1.0,603737,False,,False,True
+Sean Bock,Sean,1,male,male,1.0,371229,False,male,1.0,371229,False,,False,True
+Seok-Won Kwon,Seok-Won,1,male,male,0.93,13,True,male,0.93,13,True,male,False,True
+Seth Abrutyn,Seth,6,male,male,1.0,71481,False,male,1.0,71481,False,,False,True
+Seungwon Lee,Seungwon,1,male,male,0.81,172,True,male,0.81,172,True,male,False,True
+Shahzad Uddin,Shahzad,1,male,male,0.98,34972,False,male,0.98,34972,False,,False,True
+Shai M. Dromi,Shai,2,male,male,0.66,6069,True,male,0.66,6069,True,male,False,True
+Shamus R. Khan,Shamus,2,male,male,0.98,1361,False,male,0.98,1361,False,,False,True
+Shani Orgad,Shani,1,female,female,0.76,22791,True,female,0.76,22791,True,female,False,True
+Shannon Elizabeth Bell,Shannon,1,female,female,0.9,52078,False,female,0.9,52078,False,,False,True
+Shannon L. Morrissey,Shannon,1,female,female,0.9,52078,False,female,0.9,52078,False,,False,True
+Sharla Alegria,Sharla,1,female,female,1.0,3721,False,female,1.0,3721,False,,False,True
+Sharon Elley,Sharon,1,female,female,0.99,489743,False,female,0.99,489743,False,,False,True
+Sharon Quinsaat,Sharon,1,female,female,0.99,489743,False,female,0.99,489743,False,,False,True
+Sharon Spooner,Sharon,1,female,female,0.99,489743,False,female,0.99,489743,False,,False,True
+Shauna Dyer,Shauna,1,female,female,1.0,29031,False,female,1.0,29031,False,,False,True
+Shay O’Brien,Shay,1,female,male,0.54,13804,True,,,,,,False,False
+Sheera Joy Olasky,Sheera,1,female,female,0.82,839,True,female,0.82,839,True,female,False,True
+Shelley Boulianne,Shelley,1,female,female,1.0,74988,False,female,1.0,74988,False,,False,True
+Shelley J. Correll,Shelley,1,female,female,1.0,74988,False,female,1.0,74988,False,,False,True
+Sherry Cable,Sherry,1,female,female,0.99,129042,False,female,0.99,129042,False,,False,True
+Shige Song,Shige,1,male,male,0.97,389,False,male,0.97,389,False,,False,True
+Simon Cheng,Simon,1,male,male,0.99,530211,False,male,0.99,530211,False,,False,True
+Simon Joyce,Simon,1,male,male,0.99,530211,False,male,0.99,530211,False,,False,True
+Simon Walo,Simon,1,male,male,0.99,530211,False,male,0.99,530211,False,,False,True
+Simon Weaver,Simon,1,male,male,0.99,530211,False,male,0.99,530211,False,,False,True
+Sofie Cabus,Sofie,2,female,female,0.99,41731,False,female,0.99,41731,False,,False,True
+Sofya Aptekar,Sofya,1,female,female,0.96,6660,False,female,0.96,6660,False,,False,True
+Sol Gamsu,Sol,1,male,female,0.88,36491,True,female,0.88,36491,True,male,False,False
+Sonia K. Kang,Sonia,1,female,female,0.99,639360,False,female,0.99,639360,False,,False,True
+Sophia Costa,Sophia,1,female,female,0.99,142897,False,female,0.99,142897,False,,False,True
+Sophie Prunier-Poulmaire,Sophie,1,female,female,0.99,402301,False,female,0.99,402301,False,,False,True
+Sora Jun,Sora,1,female,female,0.74,3541,True,female,0.74,3541,True,female,False,True
+Sorcha A Brophy,Sorcha,1,female,female,1.0,2131,False,female,1.0,2131,False,,False,True
+Spencer Headworth,Spencer,1,male,male,0.96,17047,False,male,0.96,17047,False,,False,True
+Stefan Bargheer,Stefan,1,male,male,0.99,365043,False,male,0.99,365043,False,,False,True
+Stefan Wehrli,Stefan,1,male,male,0.99,365043,False,male,0.99,365043,False,,False,True
+Stefanie Mollborn,Stefanie,1,female,female,0.99,111257,False,female,0.99,111257,False,,False,True
+Stefano Pagliari,Stefano,1,male,male,1.0,399957,False,male,1.0,399957,False,,False,True
+Steffen Murau,Steffen,1,male,male,1.0,51812,False,male,1.0,51812,False,,False,True
+Stella Chatzitheochari,Stella,1,female,female,0.99,194408,False,female,0.99,194408,False,,False,True
+Stephanie A. Robert,Stephanie,1,female,female,1.0,725257,False,female,1.0,725257,False,,False,True
+Stephanie Bonnes,Stephanie,1,female,female,1.0,725257,False,female,1.0,725257,False,,False,True
+Stephanie L. Canizales,Stephanie,2,female,female,1.0,725257,False,female,1.0,725257,False,,False,True
+Stephanie Ternullo,Stephanie,1,female,female,1.0,725257,False,female,1.0,725257,False,,False,True
+Stephen A. Boutcher,Stephen,1,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen A. Cernkovich,Stephen,2,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen Benard,Stephen,1,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen Kalberg,Stephen,1,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen Kemp,Stephen,1,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen Raudenbush,Stephen,1,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Stephen Vaisey,Stephen,2,male,male,1.0,562690,False,male,1.0,562690,False,,False,True
+Steve Fleetwood,Steve,1,male,male,1.0,865347,False,male,1.0,865347,False,,False,True
+Steven Foy,Steven,1,male,male,1.0,623298,False,male,1.0,623298,False,,False,True
+Steven H. Woolf,Steven,1,male,male,1.0,623298,False,male,1.0,623298,False,,False,True
+Steven Osuna,Steven,1,male,male,1.0,623298,False,male,1.0,623298,False,,False,True
+Steven Pfaff,Steven,3,male,male,1.0,623298,False,male,1.0,623298,False,,False,True
+Steven Skiena,Steven,2,male,male,1.0,623298,False,male,1.0,623298,False,,False,True
+Suet-ling Pong,Suet-ling,1,female,,0.0,0,True,,0.0,0,True,female,False,False
+Sumi Hollingworth,Sumi,1,female,female,0.91,11688,False,female,0.91,11688,False,,False,True
+Susan Halford,Susan,1,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susan L. Brown,Susan,1,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susan Moore,Susan,1,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susan Robertson,Susan,1,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susan S. Silbey,Susan,3,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susan V. Scott,Susan,1,female,female,1.0,661486,False,female,1.0,661486,False,,False,True
+Susie Scott,Susie,1,female,female,1.0,59345,False,female,1.0,59345,False,,False,True
+Susila Gurusami,Susila,5,female,female,0.91,1236,False,female,0.91,1236,False,,False,True
+Suzan Walters,Suzan,1,female,female,0.98,47215,False,female,0.98,47215,False,,False,True
+Suzanna Danuta Walters,Suzanna,1,female,female,1.0,9548,False,female,1.0,9548,False,,False,True
+Suzanna M. Crage,Suzanna,1,female,female,1.0,9548,False,female,1.0,9548,False,,False,True
+Swethaa S. Ballakrishnen,Swethaa,1,nonbinary,female,0.8,3,True,female,0.8,3,True,nonbinary,False,False
+Sylvia Zamora,Sylvia,1,female,female,1.0,196436,False,female,1.0,196436,False,,False,True
+Sébastien Chauvin,Sbastien,1,male,male,0.99,27518,False,male,0.99,27518,False,,False,True
+Tahseen Shams,Tahseen,1,male,male,0.94,3770,False,male,0.94,3770,False,,False,True
+Talia Shiff,Talia,2,female,female,0.99,21989,False,female,0.99,21989,False,,False,True
+Talja Blokland,Talja,2,female,female,0.78,30,True,female,0.78,30,True,female,False,True
+Tamara Kay,Tamara,1,female,female,0.99,242757,False,female,0.99,242757,False,,False,True
+Tamara Mix,Tamara,1,female,female,0.99,242757,False,female,0.99,242757,False,,False,True
+Tamika Odum,Tamika,1,female,female,1.0,13961,False,female,1.0,13961,False,,False,True
+Tania Hutt,Tania,3,female,female,0.99,265981,False,female,0.99,265981,False,,False,True
+Tania M. Jenkins,Tania,2,female,female,0.99,265981,False,female,0.99,265981,False,,False,True
+Tanya Golash-Boza,Tanya,2,female,female,1.0,170758,False,female,1.0,170758,False,,False,True
+Tara Gonsalves,Tara,3,female,female,0.97,154649,False,female,0.97,154649,False,,False,True
+Tarik Bereket,Tarik,1,male,male,0.98,107186,False,male,0.98,107186,False,,False,True
+Tate Kihara,Tate,1,male,male,0.76,2404,True,male,0.76,2404,True,male,False,True
+Tatiana Volkova,Tatiana,1,female,female,0.99,300747,False,female,0.99,300747,False,,False,True
+Taylor M. Cruz,Taylor,1,female,female,0.6,44655,True,female,0.6,44655,True,female,False,True
+Taylor W. Brown,Taylor,2,female,female,0.6,44655,True,female,0.6,44655,True,Female,False,True
+Taylor W. Hargrove,Taylor,1,female,female,0.6,44655,True,female,0.6,44655,True,female,False,True
+Teresa Irene Gonzales,Teresa,1,female,female,1.0,543545,False,female,1.0,543545,False,,False,True
+Terrell J. Winder,Terrell,1,male,male,0.96,3099,False,male,0.96,3099,False,,False,True
+Terry K. Adams,Terry,1,unknown,male,0.75,89986,True,male,0.75,89986,True,uncertain,False,False
+Tetyana Pudrovska,Tetyana,1,female,female,0.99,2494,False,female,0.99,2494,False,,False,True
+Tey Meadow,Tey,1,female,male,0.5,1947,True,male,0.5,1947,True,female,False,False
+Theda Skocpol,Theda,1,female,female,0.99,938,False,female,0.99,938,False,,False,True
+Thijs Bol,Thijs,1,male,male,1.0,18322,False,male,1.0,18322,False,,False,True
+Thomas A. DiPrete,Thomas,1,male,male,1.0,1246668,False,male,1.0,1246668,False,,False,True
+Thomas Dietz,Thomas,3,male,male,1.0,1246668,False,male,1.0,1246668,False,,False,True
+Thomas Shriver,Thomas,1,male,male,1.0,1246668,False,male,1.0,1246668,False,,False,True
+Thomas Soehl,Thomas,1,male,male,1.0,1246668,False,male,1.0,1246668,False,,False,True
+Thomas Stubbs,Thomas,1,male,male,1.0,1246668,False,male,1.0,1246668,False,,False,True
+Tiffany Joseph,Tiffany,1,female,female,1.0,212430,False,female,1.0,212430,False,,False,True
+Tim Flach,Tim,1,male,male,1.0,566236,False,male,1.0,566236,False,,False,True
+Tim Hallett,Tim,2,male,male,1.0,566236,False,male,1.0,566236,False,,False,True
+Timothy J. Biblarz,Timothy,2,male,male,1.0,226625,False,male,1.0,226625,False,,False,True
+Timothy Patrick Moran,Timothy,2,male,male,1.0,226625,False,male,1.0,226625,False,,False,True
+Tobias Schröder,Tobias,2,male,male,1.0,127574,False,male,1.0,127574,False,,False,True
+Tom VanHeuvelen,Tom,4,male,male,0.99,842109,False,male,0.99,842109,False,,False,True
+Tom Wooten,Tom,1,male,male,0.99,842109,False,male,0.99,842109,False,,False,True
+Tomás Gold,Toms,3,male,male,0.98,3910,False,male,0.98,3910,False,,False,True
+Tomáš Katrňák,Tom,1,male,male,0.99,842109,False,male,0.99,842109,False,,False,True
+Tony J. Silva,Tony,1,male,male,0.99,753949,False,male,0.99,753949,False,,False,True
+Tony N. Brown,Tony,1,male,male,0.99,753949,False,male,0.99,753949,False,,False,True
+Tony Stanley,Tony,1,male,male,0.99,753949,False,male,0.99,753949,False,,False,True
+Tori Shucheng Yang,Tori,1,female,female,0.89,10218,True,female,0.89,10218,True,female,False,True
+Trenton Mize,Trenton,1,male,male,1.0,7818,False,male,1.0,7818,False,,False,True
+Trevon D. Logan,Trevon,1,male,male,0.99,2450,False,male,0.99,2450,False,,False,True
+Trey Billing,Trey,1,male,male,0.99,27360,False,male,0.99,27360,False,,False,True
+Tyson Brown,Tyson,1,male,male,0.99,20333,False,male,0.99,20333,False,,False,True
+Uri Shwed,Uri,1,male,male,0.95,6526,False,male,0.95,6526,False,,False,True
+Urs Bruegger,Urs,1,male,male,0.96,5679,False,male,0.96,5679,False,,False,True
+Valerie Earnshaw,Valerie,1,female,female,0.99,302686,False,female,0.99,302686,False,,False,True
+Valerie Jenness,Valerie,4,female,female,0.99,302686,False,female,0.99,302686,False,,False,True
+Vanessa Gash,Vanessa,1,female,female,0.99,681851,False,female,0.99,681851,False,,False,True
+Varvara Kobyshcha,Varvara,1,female,female,0.99,4323,False,female,0.99,4323,False,,False,True
+Vegard Skirbekk,Vegard,1,male,male,1.0,1030,False,male,1.0,1030,False,,False,True
+Vera Trappmann,Vera,1,female,female,0.99,207375,False,female,0.99,207375,False,,False,True
+Veronica Lerma,Veronica,1,female,female,0.99,513353,False,female,0.99,513353,False,,False,True
+Veronica Terriquez,Veronica,1,female,female,0.99,513353,False,female,0.99,513353,False,,False,True
+Victor M. Rios,Victor,1,male,male,1.0,942372,False,male,1.0,942372,False,,False,True
+Victor Ray,Victor,3,male,male,1.0,942372,False,male,1.0,942372,False,,False,True
+Victoria L. Bryant,Victoria,1,female,female,0.99,481390,False,female,0.99,481390,False,,False,True
+Victoria Piehowski,Victoria,1,female,female,0.99,481390,False,female,0.99,481390,False,,False,True
+Victoria Reyes,Victoria,2,female,female,0.99,481390,False,female,0.99,481390,False,,False,True
+Vincent Roscigno,Vincent,2,male,male,0.99,434655,False,male,0.99,434655,False,,False,True
+Vincenz Frey,Vincenz,1,male,male,0.97,179,False,male,0.97,179,False,,False,True
+Vineet M. Arora,Vineet,1,male,male,1.0,20926,False,male,1.0,20926,False,,False,True
+Vivek Kulkarni,Vivek,1,male,male,1.0,113776,False,male,1.0,113776,False,,False,True
+Vrushali Patil,Vrushali,1,female,female,0.98,475,False,female,0.98,475,False,,False,True
+W. Bradford Wilcox,W,1,male,,0.0,0,True,,,,True,male,False,False
+Wanda J. Orlikowski,Wanda,1,female,female,0.98,92928,False,female,0.98,92928,False,,False,True
+Warren S. Goldstein,Warren,1,male,male,1.0,76306,False,male,1.0,76306,False,,False,True
+Wayne E. Baker,Wayne,1,male,male,1.0,210961,False,male,1.0,210961,False,,False,True
+Wei-hsin Yu,Wei-hsin,2,female,male,0.56,16,True,male,0.56,16,True,female,True,False
+Wen-Chi Chuang,Wen-Chi,1,unknown,female,0.76,15,True,female,0.76,15,True,uncertain,False,False
+Wendy Bottero,Wendy,1,female,female,0.99,388215,False,female,0.99,388215,False,,False,True
+Wendy D. Manning,Wendy,1,female,female,0.99,388215,False,female,0.99,388215,False,,False,True
+Wendy Leo Moore,Wendy,1,female,female,0.99,388215,False,female,0.99,388215,False,,False,True
+Wendy Nelson Espeland,Wendy,1,female,female,0.99,388215,False,female,0.99,388215,False,,False,True
+Wendy Roth,Wendy,1,female,female,0.99,388215,False,female,0.99,388215,False,,False,True
+Wes Sharrock,Wes,1,male,male,0.99,36413,False,male,0.99,36413,False,,False,True
+Wesley Hiers,Wesley,1,male,male,1.0,122302,False,male,1.0,122302,False,,False,True
+Will Atkinson,Will,1,male,male,0.99,168330,False,male,0.99,168330,False,,False,True
+Will Kalkhoff,Will,1,male,male,0.99,168330,False,male,0.99,168330,False,,False,True
+William Danaher,William,1,male,male,1.0,916147,False,male,1.0,916147,False,,False,True
+William Freudenburg,William,1,male,male,1.0,916147,False,male,1.0,916147,False,,False,True
+William H. Sewell Jr.,William,2,male,male,1.0,916147,False,male,1.0,916147,False,,False,True
+William Ocasio,William,1,male,male,1.0,916147,False,male,1.0,916147,False,,False,True
+Wilma Dunaway,Wilma,1,female,female,0.99,59675,False,female,0.99,59675,False,,False,True
+Wojtek Przepiorka,Wojtek,2,male,male,1.0,30319,False,male,1.0,30319,False,,False,True
+Xiang Zhou,Xiang,3,male,male,0.9,9605,False,male,0.9,9605,False,,False,True
+Xiaogang Wu,Xiaogang,1,male,male,0.99,146,False,male,0.99,146,False,,False,True
+Xiaogao Zhou,Xiaogao,1,male,male,0.8,3,True,male,0.8,3,True,male,False,True
+Xiaoming Zhang,Xiaoming,1,male,male,0.79,519,True,male,0.79,519,True,male,False,True
+Xiaorui Huang,Xiaorui,2,male,female,0.62,77,True,female,0.62,77,True,male,True,False
+Ya-Ching Huang,Ya-Ching,1,female,female,0.75,10,True,female,0.75,10,True,female,False,True
+Ya-Wen Lei,Ya-Wen,4,female,female,0.97,27,False,female,0.97,27,False,,False,True
+Yader Lanuza,Yader,2,male,male,0.99,1772,False,male,0.99,1772,False,,False,True
+Yaejoon Kwon,Yaejoon,1,female,,0.0,0,True,,0.0,0,True,female,False,False
+Yan Long,Yan,6,female,male,0.58,38993,True,male,0.58,38993,True,female,True,False
+Yang Zhang,Yang,2,male,male,0.58,16025,True,male,0.58,16025,True,male,False,True
+Yang Zhao,Yang,1,male,male,0.58,16025,True,male,0.58,16025,True,male,False,True
+Yao Lu,Yao,5,male,male,0.9,19541,False,male,0.9,19541,False,,False,True
+Yasamin Kusunoki,Yasamin,2,female,female,0.97,1817,False,female,0.97,1817,False,,False,True
+Yen-Sheng Chiang,Yen-Sheng,1,male,male,0.83,4,True,male,0.83,4,True,male,False,True
+Yen-Wen Chen,Yen-Wen,1,female,male,0.5,6,True,male,0.5,6,True,female,False,False
+Yige Dong,Yige,2,female,female,0.61,70,True,female,0.61,70,True,female,False,True
+Yongjun Zhang,Yongjun,1,male,male,0.96,278,False,male,0.96,278,False,,False,True
+Yongren Shi,Yongren,1,male,male,0.93,12,True,male,0.93,12,True,male,False,True
+Yossi Shavit,Yossi,1,male,male,0.96,13062,False,male,0.96,13062,False,,False,True
+Young-Bum Kim,Young-Bum,1,male,male,0.88,6,True,male,0.88,6,True,male,False,True
+Youngjoo Cha,Youngjoo,1,female,female,0.66,160,True,female,0.66,160,True,female,False,True
+Yu Xie,Yu,3,male,female,0.51,21594,True,female,0.51,21594,True,male,True,False
+Yuchen Yang,Yuchen,2,male,male,0.53,721,True,male,0.53,721,True,male,False,True
+Yuval Feinstein,Yuval,5,male,male,0.65,8286,True,male,0.65,8286,True,male,False,True
+Yuval Kalish,Yuval,1,male,male,0.65,8286,True,male,0.65,8286,True,male,False,True
+Zachary D. Kline,Zachary,1,male,male,1.0,108229,False,male,1.0,108229,False,,False,True
+Zachary Levenson,Zachary,3,male,male,1.0,108229,False,male,1.0,108229,False,,False,True
+Zai Liang,Zai,1,male,female,0.57,5839,True,female,0.57,5839,True,male,False,False
+Zelia King,Zelia,1,female,female,0.99,8031,False,female,0.99,8031,False,,False,True
+Zeynep Ozgen,Zeynep,2,female,female,0.98,134091,False,female,0.98,134091,False,,False,True
+Zhen Li,Zhen,1,female,male,0.85,10254,True,male,0.85,10254,True,female,False,False
+Zhiyong Lin,Zhiyong,1,male,male,0.97,313,False,male,0.97,313,False,,False,True
+katrina quisumbing king,katrina,3,female,female,1.0,90596,False,female,1.0,90596,False,,False,True
+stef shuster,stef,1,nonbinary,male,0.7,33233,True,male,0.7,33233,True,nonbinary,False,False
