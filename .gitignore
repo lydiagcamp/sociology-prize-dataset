@@ -1,1 +1,5 @@
 .DS_Store
+data/openalex/cache/
+__pycache__/
+data/openalex/abstracts.csv
+data/genderize/cache/
