@@ -1,0 +1,14 @@
+1105 unique articles; matching via Crossref...
+  100 done
+  200 done
+  300 done
+  400 done
+  500 done
+  600 done
+  700 done
+  800 done
+  900 done
+  1000 done
+  1100 done
+59 not auto-matched by Crossref; trying OpenAlex search...
+Counter({'auto': 1054, 'review': 37, 'none': 14}) -> data/openalex/article_matches.csv
